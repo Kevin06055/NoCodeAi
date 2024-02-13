@@ -1,0 +1,1001 @@
+max_affordable_price,product,location,email,Order_size,contact,expected_delivery_time( num of days),Order_id
+$4795.36,Tools,Pennsylvania,pfieldsend0@sphinn.com,4646,215-954-6241,12,1
+$4966.09,Beauty,California,wsleaford1@patch.com,244,559-396-5347,14,2
+$1946.03,Health,California,kmotton2@intel.com,4325,916-657-6269,9,3
+$4028.50,Music,New Jersey,wbradbeer3@wired.com,147,973-534-1412,1,4
+$3840.89,Baby,Ohio,ilaxton4@gravatar.com,4629,937-244-4781,16,5
+$3644.31,Sports,Ohio,lstanford5@state.gov,966,234-874-4030,15,6
+$112.94,Music,North Carolina,kpabel6@nps.gov,4075,336-779-4225,28,7
+$260.17,Toys,Florida,lmacfall7@hud.gov,3316,727-580-6725,8,8
+$928.15,Health,North Carolina,eocanavan8@google.cn,4729,336-307-8557,3,9
+$2663.29,Toys,California,epaddison9@miitbeian.gov.cn,53,626-729-4259,3,10
+$1784.60,Games,Connecticut,lswinea@epa.gov,4941,203-435-8681,19,11
+$2405.68,Health,New Jersey,kpasseb@google.com.hk,2434,973-488-4687,6,12
+$585.08,Jewelry,Wisconsin,ladanc@cbc.ca,398,414-806-8506,11,13
+$2927.38,Shoes,New Jersey,hohenecand@altervista.org,3653,609-364-0035,16,14
+$1579.62,Health,Florida,jperschkee@nymag.com,1772,727-274-5586,25,15
+$4046.29,Garden,California,scallesf@moonfruit.com,4053,714-835-1512,17,16
+$3478.67,Movies,California,sattwoolg@bizjournals.com,4922,530-402-8445,25,17
+$19.47,Garden,Ohio,pplumptreh@usnews.com,1119,513-890-0944,1,18
+$4470.14,Industrial,California,lfurneauxi@delicious.com,630,619-366-1246,8,19
+$4731.65,Industrial,Connecticut,bkirkupj@wiley.com,4362,860-746-9593,25,20
+$1598.13,Industrial,California,zbogaysk@mit.edu,3652,805-767-8327,24,21
+$1997.46,Grocery,California,rbrisseaul@tmall.com,4024,818-402-9597,11,22
+$731.75,Outdoors,Florida,epaurm@about.com,3838,305-454-5894,2,23
+$4211.46,Books,California,gairesn@nymag.com,919,714-165-5298,1,24
+$4530.56,Baby,California,cchildeo@unblog.fr,721,559-962-8877,7,25
+$2939.76,Jewelry,New Jersey,nosheerinp@hexun.com,3573,862-141-1085,3,26
+$1670.34,Computers,California,jkatteq@nps.gov,2107,916-350-3820,3,27
+$3354.82,Grocery,California,fsowrayr@mtv.com,2089,909-855-7109,3,28
+$3424.36,Electronics,Connecticut,hlongs@fc2.com,2535,203-389-5582,23,29
+$1205.44,Clothing,Pennsylvania,mpauluscht@usatoday.com,1174,814-593-0678,26,30
+$517.65,Automotive,North Carolina,kguthrieu@canalblog.com,4932,704-337-3447,12,31
+$4853.23,Industrial,California,sthickpennyv@ezinearticles.com,3866,559-366-0493,21,32
+$2011.30,Music,Ohio,cdewittw@smugmug.com,2321,330-918-9715,8,33
+$3603.99,Jewelry,Florida,touthwaitex@g.co,522,305-268-4916,15,34
+$446.41,Industrial,Pennsylvania,rparleyy@php.net,553,215-140-2110,20,35
+$2677.64,Outdoors,Alabama,cascoughz@prnewswire.com,4719,205-368-1956,25,36
+$1701.80,Beauty,Alabama,atarte10@cornell.edu,2942,251-136-5480,5,37
+$1649.61,Health,Florida,smantz11@si.edu,2087,407-401-7464,29,38
+$2421.07,Outdoors,New Jersey,lpulbrook12@cocolog-nifty.com,2878,609-535-7057,22,39
+$1749.77,Home,North Carolina,mtrencher13@nba.com,4729,704-959-2848,2,40
+$2701.07,Music,California,jjansa14@odnoklassniki.ru,4152,626-466-4477,3,41
+$1894.94,Toys,Ohio,kscading15@booking.com,194,419-705-4844,15,42
+$944.07,Tools,California,epanther16@marketwatch.com,264,510-160-3068,25,43
+$2154.31,Industrial,Wisconsin,gwheowall17@diigo.com,2276,608-457-5163,20,44
+$506.67,Industrial,Ohio,sspellworth18@vkontakte.ru,2778,330-330-0026,4,45
+$2939.71,Automotive,California,akliemke19@ycombinator.com,3736,916-629-8113,25,46
+$4614.37,Grocery,Kansas,rdefreyne1a@ovh.net,3145,316-341-9967,13,47
+$1983.84,Automotive,Florida,lsomerfield1b@mail.ru,1434,305-904-0355,13,48
+$2537.07,Health,Connecticut,imcginnell1c@hao123.com,1169,203-266-1827,1,49
+$1673.91,Jewelry,Alabama,cdyde1d@rediff.com,4040,205-258-9720,8,50
+$4692.98,Shoes,Florida,kstovin1e@bloglovin.com,2160,772-900-6103,26,51
+$3151.65,Electronics,North Carolina,eoran1f@dell.com,3999,336-438-5684,9,52
+$3526.82,Jewelry,Connecticut,bwulfinger1g@friendfeed.com,279,860-132-3954,16,53
+$3038.56,Electronics,California,jhallatt1h@indiatimes.com,2175,530-122-5993,26,54
+$4089.57,Beauty,Ohio,agrollmann1i@odnoklassniki.ru,3701,937-203-5181,30,55
+$502.25,Movies,California,esketch1j@auda.org.au,4463,916-693-0702,1,56
+$4693.23,Grocery,California,mhaggis1k@alibaba.com,1191,562-402-4531,6,57
+$405.38,Computers,California,jridgewell1l@acquirethisname.com,1894,213-496-8972,24,58
+$1019.31,Toys,Connecticut,ftop1m@indiegogo.com,3926,203-366-4156,11,59
+$4321.05,Clothing,California,mrouthorn1n@joomla.org,3305,559-138-9889,21,60
+$1988.53,Health,California,pperfitt1o@uiuc.edu,2025,831-566-2820,22,61
+$186.22,Clothing,Florida,jclamp1p@dagondesign.com,96,941-559-9310,17,62
+$918.32,Shoes,North Carolina,nlefebre1q@github.io,4299,919-492-0061,12,63
+$1721.87,Music,Ohio,rlonding1r@cloudflare.com,578,937-522-6728,10,64
+$1349.07,Shoes,California,ewoodyear1s@google.de,90,408-782-5775,4,65
+$1366.26,Health,Ohio,tcristoferi1t@fastcompany.com,4805,937-450-1073,16,66
+$2283.59,Industrial,California,aosullivan1u@mashable.com,2335,650-281-3881,3,67
+$4258.00,Tools,California,jballaam1v@wix.com,2687,415-639-8935,28,68
+$3914.65,Baby,California,dmckane1w@admin.ch,2929,916-375-6733,11,69
+$4725.32,Baby,California,shalden1x@zdnet.com,1310,213-392-7618,12,70
+$1888.18,Jewelry,Florida,dmenier1y@marketwatch.com,446,813-312-2708,3,71
+$3112.96,Beauty,California,mhemphrey1z@so-net.ne.jp,885,916-642-0106,24,72
+$1490.98,Grocery,California,niacopini20@live.com,4713,650-581-5103,4,73
+$1890.89,Movies,California,gburrows21@youtube.com,3651,619-103-0856,23,74
+$1536.80,Computers,Ohio,nbeadle22@bizjournals.com,2690,330-244-6360,17,75
+$2421.73,Home,Ohio,nfabry23@dedecms.com,3490,513-559-7654,6,76
+$3660.63,Tools,Pennsylvania,mvandenbosch24@hibu.com,549,717-834-5988,11,77
+$2810.73,Home,Florida,cmoultrie25@cpanel.net,3196,786-646-7281,13,78
+$1800.17,Baby,California,gjoddens26@sina.com.cn,286,310-804-4106,11,79
+$806.67,Games,California,nmasser27@businessweek.com,844,714-835-0408,27,80
+$1069.27,Garden,Florida,asmallpeice28@ucoz.ru,1982,772-682-0453,21,81
+$1650.03,Clothing,Pennsylvania,scleef29@live.com,3244,215-131-6222,5,82
+$1473.14,Garden,Pennsylvania,nvanderhoeven2a@fema.gov,4063,215-239-5443,2,83
+$756.21,Beauty,Pennsylvania,horrocks2b@phpbb.com,4916,814-715-6204,19,84
+$2574.83,Beauty,New Jersey,gaskaw2c@gmpg.org,1681,201-756-7006,24,85
+$4247.13,Clothing,Alabama,jgradly2d@indiatimes.com,1722,205-958-7314,25,86
+$490.00,Clothing,Ohio,tsnaddin2e@seesaa.net,4403,513-158-2865,8,87
+$3404.98,Automotive,Florida,oscamadin2f@ovh.net,2112,863-985-0138,15,88
+$1518.64,Toys,Florida,oanglin2g@blogtalkradio.com,4877,786-486-9557,30,89
+$3941.11,Tools,Ohio,dboots2h@myspace.com,4536,513-944-8033,9,90
+$3453.94,Tools,New Jersey,lpetchey2i@hao123.com,2021,609-865-8240,5,91
+$1845.62,Music,Wisconsin,yblanch2j@bing.com,3914,608-994-2037,26,92
+$4810.66,Computers,Pennsylvania,khugueville2k@umich.edu,1240,814-688-4753,24,93
+$137.42,Automotive,Florida,bcasper2l@xrea.com,4710,561-697-3570,6,94
+$4942.45,Books,Florida,kbehrend2m@360.cn,3319,813-253-6319,1,95
+$3744.24,Industrial,Alabama,fyve2n@a8.net,3309,251-442-6538,20,96
+$93.38,Books,Alabama,hparade2o@nymag.com,1541,256-372-3194,26,97
+$3198.21,Grocery,Alabama,pryde2p@woothemes.com,1726,334-511-2571,6,98
+$3017.50,Tools,Florida,kroubay2q@elegantthemes.com,2876,786-353-1663,23,99
+$1627.90,Outdoors,California,blinden2r@lulu.com,623,916-982-4679,9,100
+$2251.26,Toys,Ohio,aksandra2s@wunderground.com,4850,330-379-3876,2,101
+$3366.26,Sports,California,dmoverley2t@ebay.com,493,530-271-0302,8,102
+$2578.00,Electronics,Florida,rcant2u@amazon.com,2855,954-419-4061,29,103
+$4038.39,Automotive,California,poldford2v@cdbaby.com,1397,213-851-2442,9,104
+$1841.55,Clothing,Ohio,ntoretta2w@psu.edu,953,216-603-1821,30,105
+$204.85,Industrial,North Carolina,peudall2x@cnn.com,4399,910-279-8253,4,106
+$2899.02,Outdoors,Pennsylvania,kguiet2y@uiuc.edu,737,412-925-1654,3,107
+$4291.10,Jewelry,California,mkleisle2z@furl.net,530,916-170-9430,6,108
+$4807.40,Books,California,bpastor30@pinterest.com,2218,559-784-3931,24,109
+$3387.81,Industrial,California,kabels31@berkeley.edu,1855,408-715-7490,23,110
+$3898.03,Grocery,North Carolina,kstapleford32@nih.gov,543,704-859-7541,23,111
+$3093.65,Music,California,lwhitley33@twitter.com,1347,209-586-8095,8,112
+$3255.43,Movies,Florida,bwalding34@noaa.gov,1977,863-766-5134,4,113
+$1512.58,Health,Alabama,rgadney35@youku.com,3860,205-366-0238,4,114
+$2366.71,Toys,California,kbarti36@thetimes.co.uk,3304,949-740-9522,17,115
+$142.51,Music,Alabama,nkitley37@blogspot.com,2398,334-377-5778,26,116
+$4869.46,Kids,California,tpickrell38@bloomberg.com,2803,213-891-4130,4,117
+$1827.20,Kids,California,ncaltera39@google.com,4197,916-268-4325,3,118
+$1689.81,Jewelry,Florida,klinny3a@washington.edu,1897,850-250-5818,11,119
+$592.78,Music,California,ddumke3b@miitbeian.gov.cn,4686,209-788-9351,23,120
+$4222.58,Grocery,Alabama,pcottey3c@issuu.com,690,251-270-3186,23,121
+$3546.12,Music,Florida,chunn3d@jiathis.com,1404,239-632-8135,25,122
+$712.62,Music,Florida,wricardou3e@digg.com,2968,813-908-7489,15,123
+$4899.16,Jewelry,California,pcabena3f@tiny.cc,2250,310-659-1080,26,124
+$2971.13,Garden,California,bsirey3g@google.pl,1871,213-121-6304,2,125
+$2927.13,Shoes,California,fbissex3h@youtube.com,4337,415-699-5843,19,126
+$3380.37,Beauty,California,eeldershaw3i@indiegogo.com,515,714-569-1036,21,127
+$4214.41,Outdoors,Alabama,mroney3j@amazon.com,1045,205-590-8092,12,128
+$2668.37,Books,Pennsylvania,ntownrow3k@imageshack.us,4258,215-888-5661,14,129
+$3237.22,Electronics,Kansas,cfortun3l@youtu.be,2881,913-904-0418,14,130
+$94.20,Sports,Kansas,agillham3m@google.it,4268,785-788-7549,6,131
+$519.09,Home,Florida,dmcgeaney3n@seesaa.net,983,941-397-4040,14,132
+$2560.36,Tools,Ohio,kdarnborough3o@jimdo.com,1693,330-785-3163,3,133
+$4337.76,Garden,Ohio,jzanazzi3p@themeforest.net,288,513-989-2933,9,134
+$778.66,Shoes,Ohio,aredfern3q@histats.com,2186,937-971-7594,9,135
+$2162.42,Health,Pennsylvania,wswynley3r@freewebs.com,2437,412-920-8105,5,136
+$3532.62,Music,California,hsharrocks3s@mtv.com,1969,858-309-6541,19,137
+$3426.73,Kids,Florida,bfranzonetti3t@ezinearticles.com,4877,727-989-3069,13,138
+$1454.94,Electronics,Pennsylvania,wendley3u@wired.com,2801,267-842-4264,26,139
+$2538.42,Movies,New Jersey,dnorcliff3v@live.com,3776,973-318-9092,14,140
+$574.10,Beauty,North Carolina,kclifford3w@google.com,3897,704-345-5758,29,141
+$618.41,Home,North Carolina,gmanwell3x@webmd.com,3985,336-493-3465,26,142
+$1350.66,Grocery,Alabama,jeaden3y@seattletimes.com,3859,334-875-6714,10,143
+$2287.27,Computers,New Jersey,xpinnington3z@nih.gov,3654,862-683-3183,1,144
+$2591.24,Industrial,Florida,tpleuman40@nyu.edu,2525,813-815-3999,18,145
+$2816.11,Industrial,California,awinsbury41@telegraph.co.uk,3370,650-775-7711,30,146
+$3725.43,Tools,California,tverryan42@oakley.com,4831,714-591-0872,5,147
+$787.80,Automotive,California,omoxsom43@opera.com,1408,510-124-1529,7,148
+$4380.76,Clothing,California,fbingall44@discovery.com,473,562-439-5474,26,149
+$2083.12,Toys,Connecticut,sbrinicombe45@nifty.com,1244,860-984-0979,21,150
+$4270.07,Books,Florida,nticic46@eepurl.com,3074,305-425-8899,26,151
+$4882.81,Home,Ohio,bcresser47@aboutads.info,2605,330-278-4429,16,152
+$1809.72,Automotive,Pennsylvania,sgrigs48@japanpost.jp,2961,610-402-4851,28,153
+$3908.65,Kids,Wisconsin,cleatherland49@ucoz.ru,643,414-444-1235,15,154
+$4102.10,Outdoors,Alabama,dlosebie4a@dedecms.com,4086,205-517-4040,14,155
+$262.61,Health,Florida,hreal4b@reuters.com,3212,850-314-1553,30,156
+$2149.70,Tools,Florida,gdescroix4c@tripod.com,4836,407-800-2251,4,157
+$3003.12,Grocery,California,rhawken4d@thetimes.co.uk,2735,510-191-5548,14,158
+$404.84,Tools,Florida,rfirk4e@virginia.edu,4884,727-644-5040,15,159
+$726.76,Tools,North Carolina,hbennetto4f@skype.com,3836,336-131-9364,15,160
+$4926.39,Shoes,California,mvaskov4g@goodreads.com,4999,415-367-7001,2,161
+$614.99,Computers,Florida,bdivall4h@geocities.com,3142,850-344-2445,4,162
+$4757.89,Beauty,California,dgaiter4i@unblog.fr,2598,559-537-9150,1,163
+$615.92,Games,Florida,gbernier4j@youku.com,4977,904-745-3380,1,164
+$3165.96,Beauty,Connecticut,dthonason4k@sfgate.com,93,860-453-4311,5,165
+$3695.90,Industrial,Pennsylvania,ebiffin4l@ihg.com,3455,215-456-4183,19,166
+$4436.15,Grocery,Florida,ewartonby4m@stanford.edu,2725,813-892-7490,2,167
+$3614.17,Electronics,California,jfranses4n@last.fm,1608,925-327-0231,17,168
+$2873.39,Movies,California,echue4o@adobe.com,1260,213-605-7593,24,169
+$1002.36,Automotive,Ohio,nplenty4p@liveinternet.ru,1476,419-829-1409,24,170
+$4035.05,Sports,Connecticut,rburditt4q@illinois.edu,376,203-562-5288,1,171
+$990.55,Jewelry,Kansas,hmulberry4r@bravesites.com,2942,785-169-7803,17,172
+$4778.15,Baby,Ohio,wmetzke4s@flickr.com,1360,937-332-0639,10,173
+$728.56,Garden,Ohio,adyson4t@salon.com,4105,614-342-1313,12,174
+$3886.47,Grocery,Connecticut,dhicklingbottom4u@flickr.com,3577,203-771-4841,3,175
+$2289.19,Electronics,California,dgildea4v@cdbaby.com,3433,213-796-5962,12,176
+$400.48,Toys,California,ablues4w@google.it,4283,619-279-7479,20,177
+$669.63,Toys,Pennsylvania,fstonestreet4x@jigsy.com,129,484-726-1641,16,178
+$1651.41,Electronics,California,sheersema4y@ask.com,4270,559-793-7873,24,179
+$3257.70,Jewelry,North Carolina,bvaughan4z@yale.edu,2802,919-891-4417,18,180
+$1409.86,Automotive,Florida,awalhedd50@washingtonpost.com,3516,352-345-7105,24,181
+$2056.17,Industrial,Connecticut,blegen51@cbslocal.com,3941,203-998-6619,8,182
+$2155.16,Music,California,bkinnen52@google.de,4621,213-753-5452,25,183
+$2679.71,Shoes,California,nechallier53@dion.ne.jp,1205,858-715-4299,3,184
+$1061.49,Movies,California,hdeinert54@springer.com,2641,619-672-0385,17,185
+$1690.35,Shoes,California,sgieraths55@ibm.com,3042,408-850-1350,14,186
+$4769.90,Automotive,Kansas,mfeldfisher56@so-net.ne.jp,4005,316-219-6955,18,187
+$2942.65,Outdoors,Ohio,twillimot57@ted.com,2016,513-162-5319,28,188
+$3073.63,Shoes,Pennsylvania,gespada58@arizona.edu,3911,724-130-0373,29,189
+$3894.17,Outdoors,Kansas,scockill59@unesco.org,4047,316-971-7604,9,190
+$3910.20,Movies,Florida,mcafe5a@seattletimes.com,1082,772-211-1445,22,191
+$4853.12,Shoes,Ohio,slimpkin5b@jigsy.com,400,614-286-9583,15,192
+$929.62,Toys,Alabama,spauluzzi5c@cyberchimps.com,747,205-201-1351,23,193
+$3481.84,Tools,North Carolina,mguswell5d@yahoo.com,2004,704-351-2181,9,194
+$591.82,Clothing,North Carolina,meastbrook5e@dmoz.org,2218,336-451-6583,4,195
+$4814.07,Electronics,Florida,evannucci5f@newsvine.com,2304,850-943-2242,22,196
+$1027.95,Clothing,North Carolina,egadson5g@storify.com,3600,828-546-4917,4,197
+$3163.65,Health,Florida,csiddens5h@oakley.com,639,239-546-6873,10,198
+$1945.35,Toys,Alabama,egreatland5i@list-manage.com,2028,334-268-9317,17,199
+$4135.30,Movies,California,dellit5j@altervista.org,815,925-748-8941,24,200
+$3660.17,Beauty,California,rwillows5k@mashable.com,292,916-921-6880,9,201
+$762.44,Automotive,California,vsherel5l@infoseek.co.jp,4984,619-365-5866,15,202
+$1212.52,Beauty,California,ipogosian5m@hostgator.com,1554,562-481-2254,12,203
+$2744.28,Baby,North Carolina,asomersett5n@digg.com,2920,704-254-1880,11,204
+$4822.59,Sports,Florida,pmedlicott5o@live.com,728,850-959-2271,5,205
+$3861.64,Clothing,Ohio,nquenby5p@npr.org,1967,216-897-8673,26,206
+$3479.84,Garden,Pennsylvania,cchritchley5q@dropbox.com,1597,267-434-2780,12,207
+$1894.01,Automotive,Florida,ohatley5r@gov.uk,3927,407-691-0313,5,208
+$3429.82,Computers,Pennsylvania,mwhilde5s@dell.com,3426,215-300-5500,3,209
+$250.39,Computers,Florida,qsmallcombe5t@dagondesign.com,3661,850-457-4714,22,210
+$2005.15,Toys,California,kaird5u@dropbox.com,2851,909-637-7882,1,211
+$2014.80,Books,Alabama,lclaiton5v@amazon.co.uk,166,205-770-3774,11,212
+$4545.00,Outdoors,California,smuschette5w@omniture.com,4863,951-411-9198,7,213
+$1117.63,Automotive,California,aslowan5x@indiegogo.com,1840,805-350-7569,9,214
+$3582.68,Books,California,preddington5y@yahoo.com,1283,559-922-9549,4,215
+$3252.76,Tools,Connecticut,bvickors5z@w3.org,2462,203-593-3367,9,216
+$1608.94,Tools,Ohio,wgarment60@mayoclinic.com,422,513-382-4329,30,217
+$2873.39,Jewelry,California,vnewby61@miitbeian.gov.cn,447,619-506-0900,19,218
+$2502.37,Automotive,Pennsylvania,jvanbrug62@adobe.com,4891,215-121-5085,26,219
+$4451.89,Automotive,North Carolina,pcameron63@e-recht24.de,2233,336-673-6598,7,220
+$2721.34,Movies,California,ahubeaux64@dagondesign.com,1472,916-275-2872,17,221
+$3443.90,Music,Florida,lpocklington65@instagram.com,1087,727-246-2732,8,222
+$3238.86,Kids,California,daleksankov66@netlog.com,731,951-906-2820,1,223
+$3510.02,Kids,North Carolina,kconiam67@sciencedaily.com,2763,336-874-3117,21,224
+$2698.42,Toys,Florida,tsampey68@xing.com,4367,561-186-2158,5,225
+$2312.41,Grocery,Wisconsin,cfieldgate69@columbia.edu,2922,608-788-2524,25,226
+$450.96,Garden,Florida,acheasman6a@163.com,3359,407-249-6090,4,227
+$1847.64,Beauty,Alabama,gmullin6b@mlb.com,3675,205-246-6411,1,228
+$4617.68,Health,Florida,cfaherty6c@microsoft.com,3866,727-842-3459,12,229
+$3078.57,Home,Florida,snana6d@pbs.org,881,954-195-1443,9,230
+$1050.07,Outdoors,Ohio,eguilder6e@pcworld.com,2606,330-323-1695,30,231
+$4982.45,Shoes,Pennsylvania,carmitage6f@ezinearticles.com,1012,570-685-1488,26,232
+$1979.22,Computers,California,boverlow6g@desdev.cn,499,916-153-6159,9,233
+$3104.83,Games,Alabama,lranfield6h@lycos.com,2249,205-293-2898,17,234
+$2010.96,Outdoors,California,lgonsalvez6i@list-manage.com,2281,805-945-2898,14,235
+$2408.62,Music,Florida,nespadero6j@oaic.gov.au,4179,850-856-9726,5,236
+$1336.81,Movies,Kansas,rguittet6k@comcast.net,4257,785-289-9901,29,237
+$978.99,Computers,Florida,cmughal6l@so-net.ne.jp,4575,941-249-9502,11,238
+$4590.47,Shoes,Pennsylvania,jheinzel6m@who.int,3634,814-625-8094,28,239
+$3804.31,Home,Florida,awallbutton6n@tuttocitta.it,798,754-851-4072,22,240
+$3314.86,Grocery,California,bbuss6o@drupal.org,427,209-397-8725,11,241
+$1256.84,Garden,New Jersey,wdanell6p@exblog.jp,4250,201-440-3097,4,242
+$2917.50,Music,California,drenehan6q@ow.ly,1467,310-411-6800,29,243
+$1792.59,Computers,California,cpaxeford6r@desdev.cn,2680,209-984-7185,16,244
+$2349.11,Tools,Florida,atolumello6s@yellowpages.com,3320,561-526-6232,11,245
+$2272.74,Movies,Florida,kcaskey6t@statcounter.com,2999,239-696-1222,1,246
+$2422.02,Automotive,New Jersey,sclitsome6u@nyu.edu,4466,551-568-9781,22,247
+$2859.01,Health,Florida,bpesselt6v@hp.com,2618,386-576-7904,1,248
+$657.99,Books,Florida,dshorto6w@discovery.com,3175,305-131-3260,15,249
+$3923.31,Kids,California,tboldra6x@edublogs.org,4185,415-876-0996,26,250
+$1046.56,Automotive,Ohio,alampe6y@sun.com,3606,937-805-6484,13,251
+$2614.66,Industrial,Florida,chalso6z@360.cn,3041,352-373-6923,20,252
+$2606.53,Books,Pennsylvania,twetter70@furl.net,3861,412-259-4939,28,253
+$4590.51,Clothing,North Carolina,sdober71@japanpost.jp,1374,704-879-1142,18,254
+$3880.36,Movies,North Carolina,lryley72@smh.com.au,941,336-194-1236,6,255
+$4959.61,Music,North Carolina,jmasden73@instagram.com,1070,336-664-7014,25,256
+$2847.91,Industrial,Florida,fnewvill74@marriott.com,1312,813-333-1143,7,257
+$8.03,Electronics,North Carolina,ctipler75@goo.ne.jp,652,704-246-6562,15,258
+$50.03,Kids,Ohio,lboise76@imageshack.us,2357,330-649-3334,4,259
+$1945.68,Beauty,California,cpavluk77@cisco.com,4866,916-325-2337,4,260
+$1920.73,Electronics,California,pbabber78@cam.ac.uk,4338,510-738-2760,25,261
+$3087.79,Home,Ohio,msheran79@illinois.edu,3304,937-106-5701,9,262
+$118.69,Books,Florida,nsaltern7a@sbwire.com,199,813-425-3036,11,263
+$1351.99,Automotive,Connecticut,cmcphate7b@de.vu,3341,203-917-1179,7,264
+$2938.61,Kids,Florida,gsuatt7c@shop-pro.jp,3011,407-460-8309,16,265
+$1111.66,Clothing,California,gprestige7d@yahoo.com,4417,916-274-6530,26,266
+$2786.59,Garden,Alabama,lleete7e@about.me,2374,205-581-5206,1,267
+$4807.76,Garden,California,thoyes7f@google.co.uk,2200,213-169-5138,4,268
+$4198.44,Baby,Florida,trigden7g@tinypic.com,3103,904-320-0401,14,269
+$3308.68,Home,Florida,dglasser7h@goo.gl,2905,941-837-0344,13,270
+$2889.18,Outdoors,Florida,rlearmonth7i@mail.ru,2994,407-253-5207,9,271
+$3852.73,Toys,Florida,kthurman7j@weebly.com,88,904-267-6144,3,272
+$4753.49,Electronics,California,jahlin7k@foxnews.com,4179,323-490-6588,10,273
+$4645.49,Computers,California,wjanzen7l@go.com,2557,805-650-6447,29,274
+$1934.33,Sports,California,ssinton7m@ca.gov,229,213-932-0514,27,275
+$1342.29,Kids,Florida,tmcglade7n@tripod.com,2023,813-439-6656,22,276
+$3747.68,Books,Pennsylvania,jtripet7o@qq.com,4443,412-657-9348,14,277
+$2897.79,Industrial,Florida,ibatchelor7p@ted.com,1844,727-123-4761,2,278
+$4431.96,Computers,Wisconsin,ehowen7q@printfriendly.com,453,608-748-6774,11,279
+$593.52,Music,Ohio,rminshall7r@microsoft.com,4885,513-455-6815,26,280
+$114.35,Electronics,Wisconsin,rpeperell7s@businessweek.com,3431,608-248-2233,15,281
+$1802.37,Garden,California,nbaack7t@dmoz.org,4650,310-643-1144,13,282
+$3598.93,Home,Kansas,sdrinkall7u@apache.org,1551,785-647-0433,19,283
+$394.56,Home,North Carolina,bparnaby7v@theglobeandmail.com,2904,336-327-8612,29,284
+$2143.79,Computers,California,rkilfeder7w@google.com,834,559-732-7203,27,285
+$4544.27,Automotive,New Jersey,sgonsalvo7x@purevolume.com,2497,862-572-1820,28,286
+$4082.12,Tools,Florida,africkey7y@springer.com,1022,954-121-5864,28,287
+$122.83,Toys,California,mfirpo7z@usa.gov,2471,559-367-3044,10,288
+$442.93,Grocery,California,jshingler80@thetimes.co.uk,1573,805-967-9332,21,289
+$3092.62,Industrial,Florida,gpyvis81@elpais.com,2385,954-978-1298,27,290
+$1506.70,Books,California,csimeon82@irs.gov,950,415-722-4044,19,291
+$73.69,Computers,North Carolina,asandyford83@google.es,4365,919-534-8325,27,292
+$4448.27,Grocery,California,hbewsy84@cbc.ca,3274,916-857-7109,17,293
+$2522.47,Garden,Florida,amatteris85@geocities.jp,1887,904-189-6451,19,294
+$775.77,Sports,Wisconsin,wwinnett86@github.io,2633,262-551-1021,14,295
+$810.01,Home,California,sbarnwille87@wiley.com,3469,916-900-4893,10,296
+$1868.17,Shoes,Pennsylvania,rlorenz88@reuters.com,4385,412-971-6583,11,297
+$4141.91,Games,Pennsylvania,agrogor89@infoseek.co.jp,3056,814-958-2950,5,298
+$2918.69,Health,Florida,wcrowcum8a@usa.gov,1567,772-274-6531,4,299
+$3832.17,Books,Florida,ppratte8b@cyberchimps.com,2480,407-504-1362,7,300
+$2727.94,Industrial,Ohio,awake8c@mayoclinic.com,1061,419-100-9364,12,301
+$4064.55,Electronics,North Carolina,gmacgruer8d@fc2.com,21,704-873-3756,6,302
+$1251.63,Home,Florida,asamworth8e@geocities.com,2285,239-272-4762,11,303
+$4033.67,Clothing,Florida,mnaulty8f@facebook.com,4098,352-979-7873,13,304
+$3356.56,Grocery,Alabama,fgiorgi8g@un.org,2349,205-866-2287,29,305
+$3509.72,Toys,California,wdaniel8h@edublogs.org,4759,209-930-1341,27,306
+$2699.22,Music,Florida,cstearndale8i@house.gov,4248,407-925-0937,28,307
+$2165.47,Outdoors,California,cpickrill8j@blog.com,3252,310-813-5984,21,308
+$256.52,Garden,North Carolina,pelan8k@squidoo.com,3579,828-486-4523,14,309
+$1992.55,Automotive,California,dscrowson8l@sphinn.com,1421,916-834-2252,11,310
+$2128.42,Health,Pennsylvania,mminmagh8m@histats.com,817,412-879-6409,23,311
+$4476.68,Jewelry,North Carolina,dbrotherheed8n@squidoo.com,3065,919-299-0227,20,312
+$3003.55,Sports,California,nclutton8o@merriam-webster.com,761,562-990-3045,16,313
+$603.33,Home,California,dklosa8p@yelp.com,4745,310-168-2596,1,314
+$1696.10,Games,Florida,thawlgarth8q@amazon.com,3069,727-520-0356,5,315
+$4191.53,Movies,North Carolina,bthredder8r@ask.com,1094,704-484-8840,25,316
+$4071.97,Grocery,California,cbeadman8s@uol.com.br,1801,805-277-5029,26,317
+$385.42,Computers,Pennsylvania,amayfield8t@furl.net,2767,215-793-7225,25,318
+$2231.71,Electronics,Wisconsin,kczajkowski8u@nyu.edu,790,608-527-7192,6,319
+$1983.57,Jewelry,Ohio,plauthian8v@hc360.com,2039,513-920-9059,12,320
+$2512.96,Grocery,California,aburnage8w@reuters.com,2994,714-865-1261,18,321
+$528.41,Kids,California,rtwittey8x@github.com,4542,760-726-0224,10,322
+$291.12,Games,Kansas,jhaddick8y@newyorker.com,1814,316-470-3735,7,323
+$2268.09,Outdoors,North Carolina,bkenway8z@amazonaws.com,2408,336-618-5012,5,324
+$567.09,Baby,Ohio,ncrucetti90@unesco.org,684,513-986-3716,20,325
+$268.86,Toys,Ohio,squantrell91@a8.net,4685,513-377-2160,25,326
+$3730.58,Books,Alabama,mkoeppke92@sogou.com,3985,251-601-5777,2,327
+$4469.95,Sports,California,gtattersill93@netscape.com,4494,510-817-9428,12,328
+$3988.60,Toys,California,larnull94@un.org,3636,707-449-8623,28,329
+$2822.13,Garden,Ohio,geva95@people.com.cn,2100,513-365-4007,29,330
+$4783.68,Toys,Florida,jkleinplac96@hubpages.com,826,941-346-5187,23,331
+$427.75,Clothing,Alabama,eemig97@kickstarter.com,4690,256-850-3876,25,332
+$3669.57,Jewelry,Kansas,hwigan98@nationalgeographic.com,764,913-625-4797,8,333
+$2960.22,Jewelry,Florida,acartmale99@trellian.com,1660,786-514-8084,3,334
+$494.41,Health,California,chaymes9a@nbcnews.com,4189,562-102-7690,11,335
+$4888.37,Shoes,Florida,reden9b@shinystat.com,1339,772-591-9658,15,336
+$4658.60,Kids,Florida,wgeator9c@wordpress.com,1640,407-331-5799,2,337
+$1367.72,Clothing,North Carolina,amarin9d@hatena.ne.jp,3106,336-208-2842,30,338
+$762.57,Health,Pennsylvania,chadcroft9e@msu.edu,818,215-920-2249,2,339
+$175.58,Garden,New Jersey,mpiddick9f@nsw.gov.au,3164,862-942-0804,21,340
+$2041.59,Books,California,mbassett9g@state.tx.us,1868,626-449-2267,11,341
+$3284.13,Garden,Florida,csacchetti9h@hc360.com,1779,863-295-9692,18,342
+$638.94,Games,North Carolina,chandslip9i@dailymotion.com,913,336-513-0392,16,343
+$2588.77,Movies,California,krechert9j@imageshack.us,1118,916-949-1956,20,344
+$1245.53,Electronics,Florida,crizzello9k@wunderground.com,317,904-690-0032,25,345
+$3664.94,Home,Connecticut,hboatright9l@pcworld.com,3021,203-568-6066,30,346
+$856.45,Kids,Wisconsin,rbrodley9m@irs.gov,3738,414-696-0899,13,347
+$3861.72,Automotive,Florida,mtweedy9n@answers.com,3436,561-332-7164,12,348
+$2684.94,Toys,California,proubeix9o@dyndns.org,3865,626-156-3551,26,349
+$2147.28,Grocery,Ohio,ldaft9p@google.pl,1512,513-984-1215,23,350
+$4800.57,Outdoors,California,khares9q@4shared.com,3002,805-156-9135,3,351
+$4061.64,Toys,California,vtiller9r@sogou.com,4764,559-141-0319,10,352
+$3257.68,Home,California,dbuscher9s@smh.com.au,2968,209-334-5272,9,353
+$1766.14,Baby,New Jersey,vbrownsall9t@wisc.edu,2779,609-732-3111,2,354
+$3655.46,Garden,California,magastina9u@infoseek.co.jp,2231,714-148-6986,4,355
+$740.07,Home,Florida,fverecker9v@hp.com,4825,786-423-0852,26,356
+$1075.09,Computers,California,tturner9w@smugmug.com,812,714-560-6180,20,357
+$4219.70,Outdoors,Kansas,rcrocroft9x@e-recht24.de,2387,913-516-6323,24,358
+$3487.29,Home,California,imosco9y@pen.io,581,209-163-2957,30,359
+$2044.95,Games,Florida,dbrusle9z@cyberchimps.com,2413,727-186-7221,3,360
+$2197.86,Beauty,California,apatronoa0@plala.or.jp,4677,714-488-0942,8,361
+$865.12,Computers,Ohio,cgiraldoa1@archive.org,3820,419-288-3138,11,362
+$1119.39,Industrial,Florida,cmoneypennya2@skyrock.com,2639,850-266-7217,11,363
+$2111.69,Shoes,California,cfurmingera3@dedecms.com,3801,626-296-7915,7,364
+$3054.76,Toys,California,rguagea4@cbsnews.com,3141,858-976-7483,3,365
+$2386.35,Tools,Kansas,jreignarda5@reuters.com,1815,316-392-3058,14,366
+$2160.79,Kids,Florida,mbrundilla6@fda.gov,1493,352-922-4275,23,367
+$391.34,Kids,Alabama,lolivaa7@xinhuanet.com,2064,251-160-8389,23,368
+$1892.02,Health,Alabama,rpennringtona8@webnode.com,4546,334-287-0840,22,369
+$1816.08,Sports,Ohio,mstrangea9@unesco.org,2672,419-963-8458,6,370
+$4229.37,Toys,Pennsylvania,iwintersgillaa@weebly.com,4071,814-110-1298,7,371
+$1167.62,Kids,Florida,hginsieab@devhub.com,4624,904-283-3457,7,372
+$1096.71,Automotive,Wisconsin,awhiskinac@globo.com,4856,920-845-2394,15,373
+$4638.24,Electronics,California,tdunmuirad@indiegogo.com,4541,415-804-6674,26,374
+$231.32,Beauty,Pennsylvania,jbentsonae@soup.io,2755,570-697-5730,17,375
+$289.02,Garden,Florida,dmconieaf@goo.ne.jp,673,407-977-1067,27,376
+$2940.06,Grocery,California,ahuxhamag@so-net.ne.jp,4785,209-427-3303,16,377
+$4388.73,Music,California,agoldsbroughah@nytimes.com,578,916-510-1263,2,378
+$4907.33,Industrial,California,tdampneyai@yandex.ru,4923,714-999-9098,20,379
+$2186.69,Baby,Alabama,twestonaj@twitter.com,1646,205-109-2387,15,380
+$3431.57,Baby,North Carolina,wmullanyak@printfriendly.com,3967,704-452-4947,22,381
+$4614.01,Garden,Florida,cyearsleyal@google.co.jp,4531,954-926-7104,20,382
+$2807.65,Computers,California,lvuittonam@nps.gov,916,415-519-1986,6,383
+$1884.61,Electronics,Florida,uhiscokean@examiner.com,2266,352-153-4364,25,384
+$138.11,Computers,California,ltugwellao@berkeley.edu,4664,408-883-2084,30,385
+$4694.15,Music,California,kbogiesap@multiply.com,4534,408-219-6163,23,386
+$1146.39,Automotive,California,cmasseiaq@nba.com,557,916-171-9071,8,387
+$3785.00,Kids,Florida,chabensar@dagondesign.com,2597,407-924-3083,21,388
+$1724.24,Toys,California,dgoselingas@kickstarter.com,4123,714-944-6975,30,389
+$1237.93,Electronics,California,knattrissat@cnn.com,91,951-330-5776,29,390
+$3006.10,Industrial,California,aborchardtau@nydailynews.com,4180,213-159-5712,13,391
+$2949.97,Outdoors,North Carolina,mlabbeyav@yellowbook.com,1573,704-289-6579,27,392
+$1129.00,Tools,Pennsylvania,sdresseaw@patch.com,4084,484-907-3676,20,393
+$4561.21,Outdoors,Florida,jpearlmanax@patch.com,3882,941-178-1316,1,394
+$4240.67,Jewelry,Ohio,kdadamoay@1688.com,3559,513-643-4311,10,395
+$1401.41,Toys,Ohio,proughaz@360.cn,1750,513-750-7916,13,396
+$4236.99,Toys,Florida,nfreshwaterb0@g.co,3054,727-905-9314,28,397
+$2340.90,Music,Florida,tmoakesb1@newsvine.com,1776,941-825-2354,21,398
+$3905.83,Garden,North Carolina,nbailesb2@tumblr.com,3562,336-572-5786,22,399
+$100.76,Industrial,Florida,flageb3@nytimes.com,1242,786-562-5581,29,400
+$2327.62,Sports,Pennsylvania,nbarnhamb4@japanpost.jp,1340,814-428-5693,11,401
+$2658.69,Tools,California,bdorantb5@blogtalkradio.com,4986,415-986-0142,19,402
+$4816.88,Toys,Pennsylvania,idewesb6@mozilla.com,1913,215-102-1858,10,403
+$4611.25,Electronics,Florida,privelonb7@themeforest.net,985,813-825-6196,3,404
+$1524.72,Music,California,bkunradb8@51.la,1215,559-176-9079,3,405
+$528.18,Toys,Ohio,torpinb9@salon.com,1008,937-878-4147,25,406
+$1142.29,Clothing,Florida,gcoteba@vistaprint.com,2161,407-261-3950,20,407
+$4999.13,Grocery,Alabama,hternottbb@stanford.edu,3505,334-203-7082,25,408
+$4100.96,Grocery,Florida,tclimiebc@un.org,1413,239-314-5251,18,409
+$675.54,Movies,Alabama,hcardozobd@newsvine.com,4406,256-154-4949,21,410
+$3815.87,Clothing,Kansas,cbowshirebe@cloudflare.com,2195,316-726-2853,22,411
+$2726.87,Electronics,New Jersey,fravenscroftbf@vimeo.com,2518,201-373-9086,25,412
+$4720.27,Beauty,Florida,lpaulebg@quantcast.com,4074,904-940-2350,28,413
+$1451.02,Beauty,Florida,fdunbletonbh@springer.com,3742,904-968-2528,25,414
+$985.41,Sports,Florida,zcartlidgebi@paginegialle.it,3121,813-680-2958,19,415
+$3181.11,Computers,California,ccordaroybj@elpais.com,1786,415-828-0807,26,416
+$648.14,Kids,Kansas,gdohrmannbk@wordpress.org,4040,816-680-5685,12,417
+$529.18,Automotive,California,smanuellobl@rakuten.co.jp,1477,619-620-6017,25,418
+$2014.35,Movies,California,agillespiebm@php.net,933,323-501-2670,30,419
+$270.65,Baby,Florida,nskerrattbn@ovh.net,4289,386-404-5800,28,420
+$3032.83,Books,North Carolina,rsalesbo@nbcnews.com,3674,704-810-0608,21,421
+$1301.55,Outdoors,North Carolina,fsamesbp@ning.com,3458,336-678-0540,10,422
+$3566.71,Baby,California,smulliganbq@hatena.ne.jp,3667,619-839-2606,13,423
+$2279.91,Books,California,klowdianebr@nytimes.com,177,858-657-0948,28,424
+$2237.90,Jewelry,California,adymickbs@a8.net,3946,805-835-3531,17,425
+$4832.88,Movies,California,aneedhambt@nhs.uk,1079,559-817-9341,17,426
+$4823.24,Clothing,Pennsylvania,bdudleybu@elpais.com,3427,610-340-3624,28,427
+$4999.97,Toys,Ohio,agatelybv@ustream.tv,2978,513-493-0817,1,428
+$1165.98,Industrial,California,ghannambw@cocolog-nifty.com,4008,760-474-6074,13,429
+$1528.78,Beauty,Florida,flatorebx@barnesandnoble.com,3221,727-922-4088,29,430
+$2331.52,Garden,Ohio,colenovby@nydailynews.com,2524,216-731-4705,22,431
+$3459.86,Tools,Florida,atittertonbz@mtv.com,1013,407-857-6992,4,432
+$948.14,Movies,Florida,ifrankenc0@virginia.edu,3895,904-339-6295,12,433
+$520.16,Clothing,Pennsylvania,mcopelloc1@msu.edu,3347,267-877-7384,13,434
+$3354.46,Music,Pennsylvania,bbauckhamc2@cocolog-nifty.com,1898,215-499-3216,4,435
+$3712.46,Outdoors,Ohio,eerrowec3@independent.co.uk,3670,513-997-3615,7,436
+$2078.11,Books,North Carolina,ssnellingc4@geocities.com,2878,704-177-6712,27,437
+$1418.08,Kids,Kansas,aattridec5@wired.com,2762,785-806-3276,29,438
+$4785.78,Outdoors,Ohio,hasliec6@ihg.com,2691,419-839-2703,21,439
+$3097.06,Clothing,California,rgrishanovc7@baidu.com,2141,213-960-7771,22,440
+$1427.84,Books,Florida,tliddingtonc8@etsy.com,4924,727-957-4921,19,441
+$2493.44,Baby,California,lcraikc9@uol.com.br,4655,661-953-0141,21,442
+$1512.25,Toys,California,tgriniovca@phoca.cz,3730,559-184-9451,1,443
+$1542.61,Tools,California,mtaillcb@prweb.com,1573,415-224-4183,5,444
+$2458.10,Industrial,Ohio,zmasseycc@aol.com,1465,440-723-1596,20,445
+$2089.45,Electronics,Florida,awestcarcd@exblog.jp,4106,813-837-9041,19,446
+$2964.29,Garden,Pennsylvania,dscamelce@wordpress.org,3499,814-408-2385,2,447
+$4348.85,Home,Florida,reskellcf@scientificamerican.com,4401,727-528-5266,28,448
+$1534.39,Toys,Alabama,rdarrigoecg@earthlink.net,3333,251-993-1560,3,449
+$2873.39,Health,California,jpashbach@msu.edu,3382,562-428-5777,11,450
+$4699.68,Baby,North Carolina,dajsikci@cdc.gov,1785,704-524-7375,30,451
+$376.29,Beauty,Ohio,bcalbreathcj@aol.com,4298,216-680-6628,5,452
+$1703.34,Clothing,Florida,lgrummittck@google.fr,2905,727-334-6869,16,453
+$3093.07,Electronics,Florida,treachcl@cmu.edu,2320,727-496-6202,13,454
+$1645.94,Games,Ohio,pbogaertcm@youtube.com,74,614-777-0052,12,455
+$4601.60,Tools,Pennsylvania,rsanticn@bloglovin.com,4479,610-641-5372,24,456
+$4720.71,Computers,Florida,kbrookerco@ocn.ne.jp,2677,850-581-9854,30,457
+$3388.18,Tools,California,rrammecp@storify.com,3697,530-798-7979,2,458
+$1010.87,Tools,Florida,dorigincq@example.com,2273,941-114-3804,18,459
+$4824.13,Games,California,kaleksandrovcr@usa.gov,2624,619-323-9813,7,460
+$1223.31,Industrial,Florida,dfarmiloecs@umn.edu,3740,727-838-9163,2,461
+$1601.53,Kids,California,tedmondsct@theatlantic.com,3354,310-410-5050,4,462
+$2692.49,Music,Florida,cjacobszcu@360.cn,272,727-121-3773,27,463
+$4963.18,Baby,California,flangridgecv@addtoany.com,742,415-979-5274,23,464
+$1273.96,Electronics,Kansas,galywincw@amazon.com,2521,913-951-6389,5,465
+$4636.53,Computers,Florida,jprichetcx@unc.edu,1407,850-987-8065,20,466
+$1940.68,Jewelry,North Carolina,pmatokhnincy@multiply.com,1818,336-235-9430,9,467
+$4873.93,Tools,Pennsylvania,lwittmancz@ibm.com,4783,717-634-1576,25,468
+$559.52,Grocery,Florida,rzollnerd0@howstuffworks.com,636,850-150-6289,30,469
+$1402.98,Games,California,kpidduckd1@microsoft.com,4330,559-568-0093,29,470
+$2451.73,Automotive,California,cleipoldd2@illinois.edu,588,510-513-5658,10,471
+$3821.03,Books,Ohio,bjenned3@webmd.com,4714,330-950-0783,30,472
+$3122.28,Computers,California,ejarnelld4@pinterest.com,3595,951-744-1230,24,473
+$4201.95,Shoes,California,aizzatd5@g.co,4483,213-444-9083,13,474
+$3551.38,Health,Ohio,otidderd6@marriott.com,4878,937-562-7281,5,475
+$4822.73,Books,Wisconsin,gpottesd7@addthis.com,459,414-835-9495,23,476
+$2732.80,Electronics,California,kblissettd8@arizona.edu,4997,209-220-3862,13,477
+$1217.23,Sports,Pennsylvania,cdemongeotd9@aol.com,2019,412-693-9070,27,478
+$1484.33,Kids,California,jbellfieldda@deviantart.com,4778,562-898-7893,22,479
+$4618.57,Tools,Florida,jpetrakdb@webeden.co.uk,1567,305-418-2242,21,480
+$3763.97,Clothing,Florida,kshermoredc@ftc.gov,4171,321-325-7738,16,481
+$93.34,Automotive,Florida,ttallowdd@cyberchimps.com,2610,813-446-4545,5,482
+$4344.89,Sports,North Carolina,johallorande@rakuten.co.jp,2545,704-914-8102,4,483
+$3109.19,Computers,Florida,gsherreddf@wufoo.com,3770,754-902-1636,2,484
+$1566.39,Sports,California,jnockallsdg@harvard.edu,3474,619-319-4123,9,485
+$2853.73,Health,Florida,dgotcherdh@japanpost.jp,845,239-398-2679,23,486
+$2851.14,Health,Pennsylvania,hczajkadi@mac.com,4766,717-102-9838,16,487
+$1480.53,Automotive,Pennsylvania,fdaviondj@php.net,3302,215-741-5274,3,488
+$171.53,Computers,Florida,ichurndk@dailymail.co.uk,4232,813-553-4954,26,489
+$3698.42,Beauty,Kansas,regletondl@ycombinator.com,170,785-221-7619,14,490
+$4576.32,Kids,North Carolina,dbotrightdm@dmoz.org,4330,704-628-5158,8,491
+$2940.14,Automotive,California,baureliusdn@fotki.com,4034,408-144-9986,27,492
+$3720.26,Beauty,Florida,jvanderkruido@seesaa.net,3139,754-841-3424,1,493
+$4833.64,Automotive,Pennsylvania,ehamblingdp@unicef.org,121,412-610-2353,14,494
+$4156.45,Health,California,kgooddq@marriott.com,2137,619-718-3977,18,495
+$437.75,Music,California,hbrombelldr@weebly.com,3106,323-490-6683,9,496
+$2335.88,Games,Pennsylvania,dminchentonds@constantcontact.com,194,412-213-2657,19,497
+$3741.02,Tools,Connecticut,hsilversondt@furl.net,1441,203-166-7899,28,498
+$4881.72,Jewelry,California,lgossedu@shinystat.com,3147,916-375-7025,4,499
+$1060.54,Movies,California,tibeldv@360.cn,2552,510-348-3252,23,500
+$3499.64,Industrial,California,adishmondw@vimeo.com,3347,310-495-9881,9,501
+$3717.58,Beauty,Pennsylvania,dmcgarritydx@vimeo.com,2577,412-851-9212,6,502
+$4166.54,Jewelry,North Carolina,ameddickdy@sun.com,772,910-395-0797,1,503
+$4899.66,Kids,Florida,pipgravedz@mozilla.com,307,954-610-6978,24,504
+$2379.39,Automotive,Florida,gcreavane0@desdev.cn,2235,954-517-3051,25,505
+$33.96,Garden,Florida,hhendriksee1@craigslist.org,2375,407-163-8674,11,506
+$2802.64,Computers,California,fdesaure2@xrea.com,3772,661-443-4927,20,507
+$1030.47,Movies,California,ckeerie3@ed.gov,568,831-339-7491,18,508
+$2123.76,Toys,California,ogreginee4@cdbaby.com,620,916-176-9758,22,509
+$1846.50,Tools,California,baugere5@nydailynews.com,1964,760-702-8922,22,510
+$942.40,Shoes,California,rdelgadoe6@elegantthemes.com,1958,209-885-7198,5,511
+$3341.05,Toys,Florida,hfettese7@hud.gov,2214,772-824-4957,28,512
+$1064.06,Clothing,Kansas,mespinete8@indiatimes.com,1992,816-855-8069,19,513
+$2791.92,Baby,Florida,dgarrigane9@4shared.com,4270,754-974-3389,18,514
+$3378.19,Clothing,North Carolina,dderislyea@google.co.jp,4154,704-686-2476,19,515
+$3603.21,Garden,Florida,jgabrielieb@example.com,3531,305-974-0614,30,516
+$4352.99,Grocery,Pennsylvania,dmahoneyec@nifty.com,3228,412-672-2796,7,517
+$2795.61,Electronics,Florida,ccremened@domainmarket.com,480,813-830-7914,19,518
+$2213.62,Kids,California,ggascoyneee@engadget.com,4640,209-810-5984,26,519
+$864.53,Automotive,Alabama,abulstrodeef@cnn.com,4050,251-449-7122,28,520
+$3492.72,Baby,Florida,aobrianeg@dell.com,3813,305-801-0006,23,521
+$4299.57,Music,Kansas,tkleinsteineh@rakuten.co.jp,4523,785-737-8175,24,522
+$1625.24,Computers,New Jersey,gesbergerei@rakuten.co.jp,1317,862-218-6633,11,523
+$529.16,Baby,California,dsherwinej@wiley.com,4549,559-908-6153,9,524
+$1644.48,Outdoors,Pennsylvania,ecureek@meetup.com,4117,412-566-1236,17,525
+$1877.87,Toys,Florida,adodgeel@squidoo.com,3639,786-579-5338,29,526
+$317.08,Shoes,California,dbyardem@unesco.org,1092,559-945-8057,17,527
+$2414.62,Books,Pennsylvania,clipparden@g.co,3596,717-823-0511,22,528
+$2509.48,Beauty,Florida,viacovoneeo@gmpg.org,1769,754-740-7056,8,529
+$1852.88,Tools,Florida,adingateep@theguardian.com,4056,772-702-0961,29,530
+$829.13,Outdoors,California,fsalazareq@biglobe.ne.jp,4511,916-830-5369,24,531
+$3466.16,Shoes,Florida,rtearnyer@newyorker.com,54,305-716-6989,29,532
+$4650.39,Movies,North Carolina,kpaintenes@comsenz.com,4078,704-226-0257,15,533
+$773.01,Outdoors,California,ccoasteret@dmoz.org,3451,661-201-1139,6,534
+$2395.28,Toys,Florida,cmcdiarmideu@indiegogo.com,3823,904-355-8557,1,535
+$4161.94,Automotive,Kansas,lsaddlerev@businessweek.com,2840,316-570-4785,22,536
+$1328.41,Shoes,Ohio,wmeynellew@wikispaces.com,4715,419-929-4291,15,537
+$3949.36,Shoes,Florida,wkeyteex@i2i.jp,1157,727-283-4905,5,538
+$3418.74,Industrial,Ohio,cbeney@blinklist.com,3092,419-153-5515,27,539
+$2469.98,Automotive,Wisconsin,dcratesez@netvibes.com,1816,608-435-2877,15,540
+$1962.52,Sports,Ohio,chailf0@taobao.com,819,419-649-4972,13,541
+$1226.77,Kids,Ohio,asowlef1@prnewswire.com,4692,330-203-1203,11,542
+$2854.82,Health,Ohio,escogingsf2@sciencedirect.com,2130,937-962-4872,25,543
+$3387.99,Music,California,fburnyatef3@tuttocitta.it,2502,213-403-4945,20,544
+$1207.46,Sports,California,rvigersf4@example.com,3178,559-160-0135,27,545
+$2840.29,Health,Florida,wgarstanf5@msn.com,443,941-423-0280,2,546
+$1149.54,Garden,Alabama,rnazairf6@php.net,306,256-486-4344,11,547
+$2633.68,Tools,California,lmongainf7@uol.com.br,2403,510-735-4477,25,548
+$3904.75,Garden,California,jseearf8@parallels.com,177,949-236-7983,26,549
+$4057.53,Toys,Florida,mdenisyukf9@hc360.com,4912,727-558-6377,4,550
+$4213.55,Home,Florida,laasaffa@si.edu,4070,386-740-6594,9,551
+$3621.01,Baby,Alabama,vaistonfb@mozilla.org,19,251-786-6144,28,552
+$294.19,Outdoors,Ohio,fhysomfc@etsy.com,4446,330-493-2467,14,553
+$528.92,Beauty,California,mnairefd@creativecommons.org,333,213-800-3168,20,554
+$148.23,Outdoors,California,sshrimptonefe@noaa.gov,1278,818-433-4178,1,555
+$2607.25,Jewelry,Florida,dbanisterff@zdnet.com,75,786-629-3631,2,556
+$1062.13,Movies,Pennsylvania,vstonhamfg@e-recht24.de,2823,412-668-4886,4,557
+$1900.36,Garden,Pennsylvania,cbloxholmfh@netlog.com,1630,814-987-8957,18,558
+$2816.00,Shoes,California,aplainfi@fastcompany.com,443,714-400-3791,17,559
+$3048.49,Health,North Carolina,cchengfj@tinyurl.com,593,704-725-2359,26,560
+$2693.50,Health,Ohio,cjeaninfk@fema.gov,2975,330-576-5350,16,561
+$2652.49,Sports,North Carolina,mdutsonfl@baidu.com,3290,336-498-6010,18,562
+$1264.43,Beauty,North Carolina,btappingtonfm@list-manage.com,4757,704-292-8652,29,563
+$1362.49,Clothing,California,ttubbyfn@nps.gov,3543,408-560-0487,7,564
+$2044.73,Garden,California,rjenksfo@businessweek.com,3641,559-872-5156,1,565
+$3535.56,Baby,Florida,rrounsivallfp@comsenz.com,4353,954-953-7454,2,566
+$3123.50,Health,Florida,jenderlefq@nytimes.com,1424,386-917-9696,28,567
+$1455.99,Health,Kansas,bstrowanfr@nsw.gov.au,208,913-206-4352,5,568
+$1347.73,Electronics,Florida,mmettrickefs@wikispaces.com,208,305-995-3338,29,569
+$3533.19,Books,Florida,ppetrelloft@census.gov,4625,941-804-8181,10,570
+$113.75,Beauty,California,adiblefu@weibo.com,786,951-303-4228,26,571
+$4300.75,Electronics,California,acolbertfv@msu.edu,4052,916-611-1088,15,572
+$1343.75,Baby,California,gblakedenfw@webnode.com,1860,562-280-4250,24,573
+$1137.90,Beauty,California,mcaddockfx@pcworld.com,3729,408-457-3345,6,574
+$713.21,Tools,Florida,asleenyfy@ucsd.edu,2624,941-264-7536,6,575
+$1958.03,Jewelry,North Carolina,bwilksfz@nbcnews.com,4132,910-416-5168,2,576
+$2252.32,Shoes,California,rmckeagg0@google.it,4322,510-575-3018,23,577
+$935.18,Garden,Ohio,jlawlyg1@nyu.edu,4811,513-457-2830,23,578
+$695.13,Beauty,California,aruhbeng2@un.org,34,510-616-0256,12,579
+$4445.73,Baby,Connecticut,rklimshukg3@typepad.com,1425,203-797-8703,27,580
+$4031.99,Toys,California,bmacewang4@samsung.com,4108,213-595-0833,25,581
+$1683.29,Tools,Ohio,amacterrellyg5@phoca.cz,4270,937-604-4238,6,582
+$3593.71,Clothing,North Carolina,cdecopemang6@privacy.gov.au,4078,704-164-7618,27,583
+$1588.54,Electronics,Kansas,mleckenbyg7@acquirethisname.com,2421,913-544-6499,10,584
+$3547.71,Games,California,fjohanng8@studiopress.com,2237,209-774-2384,24,585
+$18.43,Baby,New Jersey,aneateg9@ameblo.jp,782,609-373-5203,22,586
+$2689.87,Automotive,California,pbuncombega@ihg.com,1005,805-862-4221,6,587
+$1481.76,Jewelry,California,estriplinggb@blogspot.com,4144,530-829-5980,3,588
+$1128.67,Toys,California,lblancgc@bizjournals.com,1552,760-995-5258,15,589
+$2806.79,Grocery,Wisconsin,atrevethangd@goo.ne.jp,1514,608-771-5457,6,590
+$1643.72,Toys,Wisconsin,emussonge@dell.com,3219,262-939-0735,7,591
+$909.32,Jewelry,Florida,hdemichettigf@infoseek.co.jp,445,727-620-8189,19,592
+$3270.32,Movies,Florida,dellorgg@unc.edu,1792,904-728-5719,5,593
+$1761.23,Tools,Ohio,trapingh@soup.io,1544,330-230-4586,11,594
+$4779.29,Home,Florida,jcrombleholmegi@delicious.com,3677,941-403-8709,16,595
+$355.62,Clothing,California,crasellgj@ustream.tv,3342,213-512-5025,6,596
+$4211.30,Kids,Ohio,sreedyhoughgk@ask.com,3218,513-582-2608,19,597
+$342.23,Automotive,Alabama,skirkbridegl@addtoany.com,2191,251-613-4703,5,598
+$1614.25,Outdoors,California,fnowellgm@cnbc.com,4169,707-502-2262,19,599
+$1920.43,Toys,Wisconsin,eabrehartgn@dot.gov,629,414-967-6015,17,600
+$57.72,Beauty,Pennsylvania,hpikesleygo@mozilla.com,3088,717-254-3657,26,601
+$1269.18,Books,Kansas,jnairegp@cornell.edu,4997,316-430-3903,5,602
+$2689.73,Tools,Alabama,svereckergq@virginia.edu,4430,334-436-3896,1,603
+$3735.91,Games,Pennsylvania,ecolnettgr@eventbrite.com,853,412-576-4153,14,604
+$2752.67,Jewelry,Florida,aantoniatgs@nbcnews.com,4641,850-349-6765,2,605
+$1168.55,Music,Florida,kemminesgt@over-blog.com,1896,904-579-2333,2,606
+$3571.87,Home,Alabama,mdevilgu@ameblo.jp,1460,334-577-4650,23,607
+$147.94,Sports,Florida,bcreanygv@stanford.edu,2054,813-110-2594,9,608
+$4133.49,Tools,Ohio,sheaselgravegw@webnode.com,3896,937-562-1962,26,609
+$4784.81,Grocery,California,dshallogx@themeforest.net,4855,951-535-2140,30,610
+$4023.03,Clothing,Pennsylvania,celgargy@webmd.com,3150,412-352-3498,2,611
+$3571.83,Books,California,dbellongz@devhub.com,16,408-633-7013,3,612
+$4038.85,Outdoors,California,dginnellyh0@upenn.edu,1065,626-756-8490,27,613
+$2249.19,Toys,Florida,nashbornh1@europa.eu,1595,239-463-5082,17,614
+$2167.24,Movies,California,awhettletonh2@google.cn,2116,209-991-7034,20,615
+$3548.06,Health,Wisconsin,jantoniouh3@123-reg.co.uk,1653,608-831-2553,21,616
+$3091.04,Books,Florida,sstilldaleh4@jalbum.net,3921,352-399-4537,30,617
+$324.45,Beauty,Ohio,btillsh5@youtu.be,1815,513-469-6562,22,618
+$222.47,Kids,Pennsylvania,bcanadineh6@yandex.ru,859,717-280-4009,6,619
+$4379.36,Industrial,Connecticut,gtidderh7@youtu.be,4298,203-284-0955,9,620
+$3108.77,Grocery,New Jersey,deversh8@discuz.net,4378,862-878-4965,4,621
+$1148.37,Movies,Florida,hcargillh9@samsung.com,303,850-634-3676,18,622
+$4154.48,Jewelry,North Carolina,drobjantha@com.com,3981,336-879-8829,19,623
+$3212.64,Computers,California,mdemangelhb@msu.edu,2261,415-906-3246,14,624
+$3758.40,Movies,Florida,mfiddymonthc@bloomberg.com,1093,754-913-9906,15,625
+$3579.41,Clothing,Florida,clobliehd@imdb.com,835,352-747-3996,17,626
+$3114.38,Kids,Florida,etoombeshe@stanford.edu,4663,561-734-2401,3,627
+$1525.81,Computers,North Carolina,tkhanhf@1688.com,612,910-511-4795,11,628
+$328.79,Health,California,glickesshg@woothemes.com,4179,415-229-1421,16,629
+$3153.57,Jewelry,Connecticut,mshevlanehh@w3.org,4882,860-182-2246,17,630
+$954.37,Industrial,Florida,iillesleyhi@typepad.com,639,941-126-1197,12,631
+$669.32,Baby,Pennsylvania,ehaddletonhj@github.com,1123,814-963-3401,26,632
+$4291.59,Movies,California,mfinanhk@storify.com,3920,805-190-7116,15,633
+$3389.02,Movies,North Carolina,sbaignardhl@drupal.org,3838,919-394-7612,19,634
+$1075.69,Baby,Florida,jstookhm@slideshare.net,2887,850-586-3167,6,635
+$4566.16,Books,Ohio,fparsallhn@prweb.com,3268,614-381-5415,5,636
+$4046.30,Computers,California,browellho@scribd.com,1748,760-903-7974,4,637
+$3880.05,Garden,California,rprettejohnshp@mozilla.org,4905,415-774-7092,18,638
+$4787.82,Automotive,Florida,eskellingtonhq@1und1.de,821,407-307-8262,7,639
+$3191.94,Kids,Florida,lvolkehr@nih.gov,4431,941-810-8420,1,640
+$1650.61,Kids,California,jchallicehs@amazon.de,4507,626-702-3555,4,641
+$1542.19,Electronics,Pennsylvania,hblakesht@ocn.ne.jp,4175,412-780-8077,13,642
+$664.23,Books,California,kibbotsonhu@ezinearticles.com,154,213-647-6756,12,643
+$1223.22,Jewelry,California,cmcwhinniehv@opensource.org,1070,209-401-3148,16,644
+$224.67,Clothing,North Carolina,cdummiganhw@cnet.com,4020,919-454-4453,12,645
+$1511.93,Toys,Florida,rpairemanhx@epa.gov,1407,850-984-7527,26,646
+$3329.92,Outdoors,Florida,lsmeetonhy@csmonitor.com,2169,754-460-0086,20,647
+$3111.94,Baby,New Jersey,lmaciashz@google.it,662,973-306-4012,13,648
+$3517.39,Industrial,California,hrandlesoni0@hhs.gov,2157,916-706-3257,6,649
+$1580.89,Clothing,Florida,mbrandenbergi1@msn.com,952,813-955-8591,26,650
+$3617.05,Outdoors,Florida,fbratti2@skype.com,211,352-572-2881,1,651
+$3288.65,Music,California,cgutselli3@blinklist.com,4436,559-462-5871,20,652
+$2284.62,Tools,California,mdjurevici4@sitemeter.com,4562,858-644-9185,9,653
+$1955.02,Shoes,Connecticut,yoldershawi5@cnn.com,2305,203-692-8411,24,654
+$1174.66,Jewelry,Florida,cvobesi6@ucsd.edu,915,239-400-3667,25,655
+$44.30,Health,California,ffabbroi7@constantcontact.com,4220,702-452-6014,21,656
+$2283.91,Automotive,New Jersey,mgasoni8@stumbleupon.com,3317,609-361-3299,7,657
+$561.07,Music,California,ccorpi9@parallels.com,2926,209-261-7859,2,658
+$1526.83,Electronics,New Jersey,dgrangeria@barnesandnoble.com,2958,609-214-6828,21,659
+$3703.40,Music,Florida,mockendonib@ebay.com,330,352-542-6999,2,660
+$4334.30,Industrial,Alabama,cdorbonic@zdnet.com,579,256-723-7072,9,661
+$451.76,Movies,California,adalgarnowchid@sakura.ne.jp,4239,530-397-4713,27,662
+$2120.08,Books,Florida,rvenningsie@rambler.ru,4651,727-708-4661,1,663
+$3696.99,Games,Pennsylvania,gbazocheif@stumbleupon.com,3506,717-504-0283,10,664
+$962.91,Grocery,California,hfluryig@opera.com,4071,562-120-9932,4,665
+$3513.46,Home,Florida,shulkesih@google.ru,3696,850-666-2014,4,666
+$1822.10,Computers,North Carolina,ffennelowii@dion.ne.jp,4189,704-547-0608,14,667
+$1317.09,Music,Ohio,enicklinij@sciencedaily.com,182,937-197-5708,20,668
+$3175.27,Music,California,eblondellik@privacy.gov.au,4480,916-638-0616,18,669
+$3777.21,Music,California,ncheneyil@sakura.ne.jp,1124,415-763-0583,22,670
+$3968.48,Health,Alabama,akepeim@hhs.gov,4751,205-796-8816,21,671
+$4182.94,Garden,Florida,slipmanin@vk.com,4530,941-780-5651,9,672
+$1865.90,Computers,Ohio,sflatteio@va.gov,3039,330-698-5698,11,673
+$2030.33,Movies,North Carolina,bsahlstromip@acquirethisname.com,4229,704-674-5481,15,674
+$4262.18,Kids,Ohio,gblooriq@google.com,2030,513-945-8321,19,675
+$4626.34,Industrial,Wisconsin,sgarahanir@ucoz.ru,4317,608-478-0565,28,676
+$3066.65,Grocery,New Jersey,lmuatis@wikimedia.org,3280,862-797-7462,1,677
+$4162.15,Tools,California,asymersit@nbcnews.com,149,408-546-4913,5,678
+$3578.49,Baby,California,sbranfordiu@behance.net,4083,650-219-2919,27,679
+$2856.50,Computers,California,slemaryiv@soundcloud.com,1534,619-404-5065,10,680
+$460.34,Shoes,Florida,mpighillsiw@alexa.com,4569,407-631-9683,23,681
+$3481.04,Jewelry,Florida,zkrauseix@youtu.be,1401,305-802-3780,18,682
+$4003.91,Tools,Ohio,jjirekiy@webmd.com,1736,330-459-2991,15,683
+$4532.14,Baby,Florida,arannellsiz@sitemeter.com,1539,239-387-1893,2,684
+$1999.57,Beauty,Alabama,blegendrej0@princeton.edu,4286,334-828-4296,25,685
+$3475.77,Home,Alabama,sacunaj1@examiner.com,4117,251-687-5362,21,686
+$3070.38,Electronics,Ohio,dwilkowskij2@naver.com,1695,740-371-8062,3,687
+$2523.22,Health,California,kpetticrowj3@clickbank.net,37,818-587-7222,29,688
+$635.60,Clothing,Connecticut,losgardbyj4@yale.edu,2710,860-271-3329,24,689
+$454.09,Automotive,Pennsylvania,dsadgrovej5@cpanel.net,4751,484-194-3067,8,690
+$4033.11,Baby,California,khammarbergj6@mlb.com,679,916-992-9263,4,691
+$3612.87,Games,Pennsylvania,jgaymerj7@ted.com,3741,717-996-6012,16,692
+$4774.56,Toys,Florida,kkinnardj8@ocn.ne.jp,4525,954-480-5887,19,693
+$2466.83,Grocery,Florida,jumfreyj9@economist.com,1619,754-105-0080,26,694
+$1962.38,Movies,California,glastja@qq.com,2047,951-994-7023,30,695
+$4364.92,Books,Florida,adenejb@g.co,1801,561-238-9589,28,696
+$3210.21,Home,California,scargenjc@1und1.de,909,925-641-6931,25,697
+$3255.77,Clothing,Alabama,ealdingtonjd@disqus.com,1188,251-800-6356,19,698
+$4894.12,Electronics,California,mkeenlaysideje@umich.edu,4778,626-753-7288,29,699
+$4572.26,Electronics,Alabama,mfeldmesserjf@psu.edu,4975,205-192-2184,11,700
+$1313.73,Kids,California,sorwelljg@apache.org,1116,714-752-3436,12,701
+$3088.21,Sports,California,mwelsbyjh@google.com,1802,714-382-0579,11,702
+$2228.42,Electronics,Ohio,atillyji@drupal.org,1527,614-925-5695,17,703
+$664.31,Movies,Florida,scrippsjj@soundcloud.com,2735,786-617-1527,5,704
+$3426.71,Clothing,Florida,gteaguejk@marketwatch.com,1917,941-985-3672,17,705
+$2868.24,Health,Florida,jnewberyjl@reference.com,2001,772-553-2655,5,706
+$1614.16,Computers,Pennsylvania,drolfejm@jiathis.com,4965,724-403-9941,29,707
+$4974.53,Beauty,Florida,glivingstonjn@google.pl,3578,305-245-5174,6,708
+$306.33,Automotive,California,cwestoverjo@yahoo.com,2456,714-920-8131,9,709
+$1040.20,Jewelry,Connecticut,africkjp@i2i.jp,4095,203-440-8729,7,710
+$4836.33,Outdoors,New Jersey,mpimblettjq@tinyurl.com,3909,609-783-2824,10,711
+$3901.56,Kids,Florida,hspadarojr@squidoo.com,4030,786-244-1641,29,712
+$1900.43,Tools,California,nashelfordjs@ebay.co.uk,4653,909-872-1269,27,713
+$4275.43,Grocery,Florida,hthompstonejt@digg.com,441,754-447-0249,20,714
+$2911.07,Tools,California,ajohnysju@tinypic.com,3520,805-128-0448,3,715
+$1873.25,Games,Kansas,bainleyjv@google.fr,2132,913-313-4955,17,716
+$978.55,Games,Pennsylvania,gseedhousejw@tripadvisor.com,1492,814-797-1101,1,717
+$3922.37,Movies,Ohio,tballaamjx@amazon.com,2723,937-385-6505,10,718
+$4891.46,Jewelry,Ohio,jfacejy@engadget.com,2684,419-938-1542,16,719
+$4868.05,Sports,North Carolina,ooloshkinjz@mozilla.org,2842,919-125-5358,26,720
+$4020.42,Garden,California,nenserk0@sogou.com,3337,805-707-2901,12,721
+$2721.67,Games,California,bwimpk1@uiuc.edu,3488,909-694-4803,22,722
+$4804.57,Shoes,Florida,cnaultyk2@ox.ac.uk,2699,954-967-5863,13,723
+$3512.64,Electronics,Kansas,jheinzelk3@ucoz.ru,1756,913-894-6048,27,724
+$4563.72,Kids,Florida,lhadekek4@ucla.edu,752,941-666-2357,4,725
+$4545.94,Automotive,Kansas,sdobsonk5@smugmug.com,116,785-568-3338,1,726
+$4259.33,Garden,California,jelcockk6@uiuc.edu,2578,925-751-0093,7,727
+$4941.22,Computers,Pennsylvania,edumbellk7@biblegateway.com,1691,717-651-5280,26,728
+$694.96,Garden,California,tduttk8@cam.ac.uk,4862,530-217-1415,5,729
+$2721.47,Books,Ohio,mlumsdainek9@arizona.edu,2944,419-799-5462,14,730
+$174.44,Clothing,California,drandka@shutterfly.com,498,714-551-6007,14,731
+$3633.39,Home,Florida,igladdenkb@yellowbook.com,2287,941-700-6767,5,732
+$532.29,Shoes,North Carolina,smeniskc@xinhuanet.com,2803,336-787-7628,4,733
+$755.21,Beauty,Ohio,famsbergerkd@godaddy.com,2897,330-986-0540,1,734
+$2107.22,Jewelry,California,mseilmannke@bloglines.com,3002,619-553-2519,28,735
+$676.33,Sports,North Carolina,gsemperkf@xinhuanet.com,1343,704-784-0938,15,736
+$1930.41,Shoes,Pennsylvania,cpringuerkg@infoseek.co.jp,1896,215-460-3577,30,737
+$296.47,Music,Kansas,anorledgekh@blogspot.com,4304,785-499-8217,6,738
+$1143.76,Tools,Wisconsin,cmccambridgeki@zimbio.com,3324,608-844-3153,2,739
+$2096.62,Books,California,cpurdomkj@oakley.com,4719,818-517-5805,22,740
+$1940.22,Electronics,Kansas,astrankkk@bbb.org,1658,913-629-9493,10,741
+$737.61,Grocery,Pennsylvania,fdrakerskl@spiegel.de,1818,215-395-0630,6,742
+$732.16,Jewelry,Florida,bwharinkm@theguardian.com,2017,407-505-9888,3,743
+$2304.71,Shoes,California,cthynnkn@geocities.com,2592,209-483-1389,14,744
+$2798.66,Computers,Alabama,rtorettako@github.io,4181,205-414-4537,22,745
+$2187.69,Outdoors,Alabama,aduhigkp@webnode.com,3338,251-226-7562,25,746
+$4953.20,Computers,Florida,pmitkovkq@psu.edu,2377,305-268-2863,29,747
+$2521.12,Movies,New Jersey,mharrildkr@symantec.com,2246,732-859-2174,4,748
+$3036.67,Games,California,rsallingerks@printfriendly.com,2594,626-122-3185,11,749
+$1953.94,Tools,Florida,lgibsonkt@youtu.be,2704,786-406-3051,24,750
+$4335.84,Computers,California,dbleasdaleku@yahoo.com,1606,951-271-1647,24,751
+$4655.59,Baby,Wisconsin,cjagielskikv@unblog.fr,4562,414-534-3730,2,752
+$4090.10,Jewelry,Florida,matheykw@artisteer.com,3792,772-280-9505,10,753
+$2121.85,Toys,Florida,tbartholomewkx@a8.net,4674,727-443-3824,12,754
+$4943.88,Games,Ohio,sburrelky@google.com.br,4615,513-765-6628,15,755
+$2969.56,Sports,Florida,nprahmkz@mapquest.com,3967,786-994-3867,6,756
+$1399.50,Beauty,California,lgunningl0@canalblog.com,2254,310-444-9560,12,757
+$3037.56,Shoes,Alabama,flattyl1@auda.org.au,209,251-247-0722,11,758
+$2237.47,Health,Florida,cmanuelil2@macromedia.com,4567,904-687-0187,7,759
+$346.95,Home,California,fstuckl3@lycos.com,4900,559-243-4329,19,760
+$4997.33,Toys,California,mruffl4@webmd.com,2008,323-737-2264,1,761
+$4473.15,Books,California,jcaspelll5@blinklist.com,1471,310-850-8906,8,762
+$1576.40,Electronics,California,agotfreyl6@nifty.com,1220,559-930-1440,29,763
+$3769.10,Shoes,California,rhalgarthl7@who.int,2680,714-110-8242,9,764
+$316.91,Books,California,dthingl8@hubpages.com,1725,650-125-7056,11,765
+$1918.60,Computers,California,tpecholdl9@eventbrite.com,2798,760-275-7542,17,766
+$4823.68,Garden,Alabama,lleemingla@telegraph.co.uk,3821,251-243-1159,3,767
+$2014.50,Books,North Carolina,ksteartlb@wired.com,3143,704-437-8140,5,768
+$3474.60,Baby,Pennsylvania,mgyteshamlc@examiner.com,568,215-927-1903,4,769
+$949.11,Computers,California,glodderld@gnu.org,3252,951-518-2971,7,770
+$795.67,Clothing,California,afeenyle@instagram.com,3302,818-483-4849,25,771
+$1730.30,Beauty,Wisconsin,dlacelettlf@opera.com,1170,608-582-3016,18,772
+$4661.39,Clothing,Ohio,abrahamlg@google.nl,2513,330-644-9368,22,773
+$2933.50,Beauty,California,mbardwelllh@google.com.br,1294,805-643-3133,2,774
+$1298.39,Health,Ohio,bmerielli@clickbank.net,745,937-987-3685,15,775
+$2129.79,Shoes,California,tcowardlj@mapy.cz,4370,916-982-7420,23,776
+$4083.59,Beauty,Pennsylvania,tthackerlk@squarespace.com,2562,412-112-3114,28,777
+$2082.49,Clothing,Florida,ctemplell@cbc.ca,2054,786-105-1037,10,778
+$2785.16,Health,Florida,asproullm@instagram.com,2510,727-181-3636,8,779
+$2110.50,Beauty,California,abeamontln@gizmodo.com,1619,562-957-0831,26,780
+$4024.09,Movies,California,isimkinlo@live.com,2529,818-950-2246,10,781
+$849.97,Health,Pennsylvania,lgilbodylp@house.gov,979,412-742-3219,5,782
+$1494.84,Movies,California,kdignanlq@rambler.ru,4585,209-614-2893,15,783
+$813.04,Home,California,sbentzlr@guardian.co.uk,2739,408-776-1608,30,784
+$4580.88,Tools,North Carolina,gvanbaarenls@psu.edu,857,919-507-4641,10,785
+$4586.29,Industrial,North Carolina,betridgelt@comcast.net,1675,919-718-3081,14,786
+$4535.63,Games,Alabama,lschermelu@wp.com,2303,251-218-7992,26,787
+$512.82,Home,California,aluckmanlv@indiatimes.com,3685,562-462-1380,4,788
+$2877.06,Sports,Florida,adunstanlw@fema.gov,4565,407-168-7806,4,789
+$2816.61,Baby,Pennsylvania,tbroodeslx@slate.com,2999,717-189-9932,22,790
+$18.82,Shoes,California,hbremmellly@mapy.cz,1625,916-154-8434,3,791
+$3929.32,Shoes,Florida,awhitlandlz@cbc.ca,4241,407-899-1304,30,792
+$1546.16,Grocery,California,eweerdenburgm0@geocities.jp,4426,916-964-0538,21,793
+$1290.57,Industrial,California,tbellangerm1@storify.com,4972,619-887-2689,8,794
+$1760.29,Grocery,Kansas,dscainm2@ebay.co.uk,3272,913-703-1406,18,795
+$4255.12,Home,Ohio,ameugensm3@cnbc.com,4890,937-753-5630,4,796
+$2855.28,Health,California,ahumbeym4@edublogs.org,4978,760-562-8782,8,797
+$2501.59,Tools,Pennsylvania,mrodgerm5@sogou.com,4400,570-184-9436,10,798
+$1112.12,Automotive,Florida,bglennm6@usda.gov,778,727-406-9963,19,799
+$4473.83,Jewelry,Ohio,atomasekm7@loc.gov,609,937-889-1009,23,800
+$4768.20,Shoes,Connecticut,amillingtonm8@goo.gl,1737,203-763-7860,15,801
+$2589.59,Automotive,Pennsylvania,gmordauntm9@mediafire.com,2568,215-696-2911,19,802
+$2577.83,Outdoors,Connecticut,ejaqueminetma@cyberchimps.com,2446,203-471-6351,28,803
+$1188.48,Electronics,North Carolina,jmilanmb@dagondesign.com,668,704-313-3421,29,804
+$4725.47,Kids,California,lgeddismc@example.com,2938,661-869-4905,14,805
+$2648.18,Games,Pennsylvania,fbedowmd@examiner.com,2509,814-760-0758,9,806
+$2975.60,Clothing,Florida,efadianme@si.edu,1114,863-647-0429,10,807
+$1165.29,Jewelry,Alabama,bshewrymf@hexun.com,2039,205-792-6668,7,808
+$2956.03,Shoes,Florida,scroixmg@cpanel.net,4753,305-181-5599,3,809
+$3163.42,Outdoors,Pennsylvania,sblackstermh@java.com,4536,412-803-7195,29,810
+$72.10,Books,California,gprudencemi@samsung.com,76,209-471-0717,10,811
+$4665.61,Electronics,Ohio,pgraebermj@meetup.com,4719,216-407-7146,7,812
+$4411.45,Music,Connecticut,abreawoodmk@trellian.com,2363,860-225-6320,15,813
+$2250.65,Shoes,California,tpavlikml@illinois.edu,4951,415-840-0183,1,814
+$451.00,Movies,Ohio,nokellmm@wikia.com,2627,330-461-3354,23,815
+$4535.84,Games,Kansas,rmaccallammn@sbwire.com,4682,913-335-2327,8,816
+$4341.95,Sports,Florida,kduignanmo@goodreads.com,913,850-639-0546,29,817
+$2336.37,Electronics,Florida,cdoolymp@gov.uk,2317,813-144-7572,14,818
+$1239.90,Health,Kansas,amcveymq@ow.ly,4403,785-780-6182,23,819
+$3974.56,Books,Florida,jcrossdalemr@nydailynews.com,2899,727-156-8985,6,820
+$1617.41,Movies,California,psorbiems@tuttocitta.it,4419,310-692-3472,25,821
+$4894.64,Sports,Florida,tloggmt@mozilla.com,4740,850-923-5021,1,822
+$2594.81,Sports,Ohio,jlanphiermu@macromedia.com,3614,614-804-6401,6,823
+$3623.74,Beauty,Florida,brichtenmv@tripadvisor.com,4831,904-713-2179,5,824
+$4418.76,Tools,Alabama,fbeardwoodmw@freewebs.com,2374,256-693-1399,28,825
+$698.78,Beauty,California,areimsmx@cbslocal.com,4184,562-299-8123,8,826
+$125.64,Books,California,sblademy@miibeian.gov.cn,2445,415-989-6792,18,827
+$2457.16,Books,North Carolina,sancliffemz@cbsnews.com,3807,828-543-8737,24,828
+$4266.53,Sports,California,gdantesian0@loc.gov,1617,858-837-4261,16,829
+$2103.00,Clothing,Florida,bfelipen1@apache.org,982,772-465-5132,16,830
+$4341.70,Home,Connecticut,fleirmonthn2@jugem.jp,2614,203-618-4035,12,831
+$3157.52,Shoes,Florida,mhoven3@uiuc.edu,2837,941-824-5624,11,832
+$404.14,Games,California,awestmancoatn4@sfgate.com,1873,310-328-4494,6,833
+$4325.81,Kids,California,gmatchesn5@scientificamerican.com,361,818-706-1901,29,834
+$4872.00,Books,California,aparnbyn6@mysql.com,2155,209-750-8769,28,835
+$352.67,Clothing,Pennsylvania,bkinzeln7@marriott.com,3470,215-388-6492,16,836
+$3039.70,Computers,Florida,mchampneysn8@google.co.jp,2275,727-939-9968,15,837
+$2332.56,Computers,Alabama,etissimann9@infoseek.co.jp,2282,334-479-2367,4,838
+$4671.87,Music,New Jersey,cbatchelorna@hexun.com,2973,609-466-3862,22,839
+$1057.79,Games,Ohio,ldriversnb@dagondesign.com,2390,330-917-0611,29,840
+$3505.43,Garden,Pennsylvania,agierkenc@skyrock.com,1811,215-948-6918,25,841
+$152.07,Books,Pennsylvania,slethemnd@hatena.ne.jp,3341,412-615-4806,29,842
+$716.29,Tools,Ohio,elebondne@free.fr,3695,330-390-2857,21,843
+$468.42,Kids,California,ahabbertnf@chicagotribune.com,4034,818-448-9929,17,844
+$1190.66,Toys,California,gsillitoeng@blogs.com,2409,714-312-8603,18,845
+$1924.38,Tools,California,icruxtonnh@theatlantic.com,3182,626-840-1030,30,846
+$4798.64,Garden,North Carolina,mnorthcottni@apple.com,4326,910-407-1554,25,847
+$4540.84,Kids,Ohio,emessentnj@youku.com,687,419-125-5816,30,848
+$1818.90,Tools,California,brenachowskink@upenn.edu,605,559-590-1242,2,849
+$182.28,Toys,California,rholsteinnl@ycombinator.com,1766,415-258-1965,20,850
+$2078.65,Health,California,ckeiltynm@amazonaws.com,3640,310-866-8580,25,851
+$1508.31,Industrial,Florida,apashbann@printfriendly.com,166,561-377-7327,18,852
+$3499.32,Automotive,California,jcolumbineno@wsj.com,151,909-427-6221,17,853
+$1108.49,Beauty,Alabama,jraggenp@phpbb.com,3398,205-695-7592,11,854
+$3062.68,Movies,Florida,mmaciunasnq@theatlantic.com,2063,727-803-3328,7,855
+$4855.63,Toys,Florida,gcrusenr@cnbc.com,3634,407-892-7300,11,856
+$4369.02,Outdoors,Florida,bbeentjesns@weather.com,564,850-361-4039,5,857
+$1326.98,Automotive,Wisconsin,sdimeont@yahoo.co.jp,4553,414-964-0417,28,858
+$1410.38,Grocery,Florida,tdavidovicinu@rediff.com,1742,561-430-1208,23,859
+$203.64,Health,California,lfolletnv@ft.com,2730,702-469-2345,11,860
+$445.91,Computers,Florida,byurmanovevnw@yahoo.com,2126,386-892-4521,21,861
+$3201.44,Clothing,Alabama,vsantrynx@fc2.com,4419,251-878-8226,25,862
+$1886.87,Health,North Carolina,mbruhnkeny@360.cn,4292,919-971-9563,26,863
+$3415.50,Games,Wisconsin,jrozeanz@independent.co.uk,4532,414-413-9521,27,864
+$2104.86,Garden,California,wallensono0@sina.com.cn,4127,209-792-5380,2,865
+$4724.27,Industrial,California,bserriso1@nbcnews.com,41,916-185-1940,6,866
+$522.07,Toys,California,nnottio2@sourceforge.net,4908,909-133-3060,2,867
+$2185.09,Books,California,dwhitrodo3@senate.gov,3716,213-752-7858,22,868
+$4229.81,Tools,California,jgoneyo4@businessinsider.com,1307,805-746-6537,19,869
+$3272.91,Home,Florida,zstroobanto5@geocities.jp,4356,772-731-5784,20,870
+$3024.29,Garden,Florida,lgrisardo6@ucsd.edu,1279,239-397-1621,17,871
+$4398.40,Computers,North Carolina,hjentgenso7@homestead.com,4085,336-721-5701,13,872
+$597.15,Baby,California,cwhaleyo8@wp.com,3462,408-665-1665,9,873
+$1422.24,Games,California,hraistono9@arstechnica.com,1175,209-112-7465,22,874
+$3358.51,Electronics,Pennsylvania,fsundinoa@newyorker.com,4954,215-653-9340,26,875
+$1053.31,Health,California,hdevineob@ox.ac.uk,2313,916-422-1725,16,876
+$4374.08,Shoes,Pennsylvania,adunleavyoc@ocn.ne.jp,961,610-720-8366,24,877
+$1688.65,Baby,Wisconsin,cthormwellod@privacy.gov.au,4117,608-417-0796,4,878
+$4696.79,Home,Alabama,abudgeyoe@studiopress.com,1363,251-160-1434,9,879
+$2837.56,Books,California,alorainof@ocn.ne.jp,440,510-691-9370,26,880
+$3387.64,Computers,California,kpaxefordog@squidoo.com,3001,559-171-5912,4,881
+$1126.86,Clothing,California,mpetrussioh@japanpost.jp,2132,805-583-4841,1,882
+$323.68,Outdoors,Florida,cskeyoi@hud.gov,607,352-231-7960,26,883
+$4563.80,Beauty,California,lkernaghanoj@meetup.com,2418,916-320-8088,3,884
+$1920.73,Baby,California,dpesseltok@woothemes.com,4867,909-186-7578,11,885
+$631.44,Kids,California,bschusterlol@amazon.co.uk,47,213-737-7395,29,886
+$648.96,Grocery,California,kapplewhaiteom@sun.com,1554,760-895-0421,25,887
+$4473.82,Electronics,Connecticut,gtipladyon@php.net,2761,203-245-0041,18,888
+$3726.62,Kids,California,tduckitoo@wired.com,3608,408-275-9941,5,889
+$3233.37,Kids,California,cgreenrdeop@clickbank.net,3281,831-450-8709,18,890
+$603.17,Automotive,Alabama,swhaplingtonoq@ucoz.ru,1690,251-347-9922,8,891
+$3894.80,Automotive,Florida,jinksteror@cnet.com,3556,754-611-8266,13,892
+$4761.93,Beauty,California,dantoniewiczos@rediff.com,4193,310-964-7379,14,893
+$4446.05,Health,Ohio,blavensot@meetup.com,3025,513-193-9866,20,894
+$113.85,Music,New Jersey,hzahorou@imageshack.us,4925,609-228-3747,20,895
+$283.03,Shoes,Pennsylvania,omacgruerov@cisco.com,1001,570-269-9583,19,896
+$4492.04,Electronics,Alabama,jbreckenridgeow@mayoclinic.com,1700,334-262-1778,29,897
+$1362.94,Movies,North Carolina,rhenfreox@skype.com,2183,919-664-3070,1,898
+$935.70,Beauty,Ohio,rchauveyoy@bloglines.com,3952,330-314-9402,20,899
+$1346.68,Electronics,North Carolina,bdomonioz@cargocollective.com,2592,910-306-4210,20,900
+$2822.03,Movies,Florida,jfozardp0@wordpress.org,517,813-291-8354,12,901
+$1202.44,Outdoors,Ohio,jwankp1@mit.edu,2827,513-908-4464,5,902
+$3163.11,Music,North Carolina,lsorleyp2@techcrunch.com,4565,704-401-9025,25,903
+$3836.30,Industrial,California,nministerp3@nature.com,4179,559-742-0151,20,904
+$1735.44,Beauty,North Carolina,eblakeboroughp4@rakuten.co.jp,4337,336-543-1322,30,905
+$3647.95,Sports,New Jersey,kpieruccip5@baidu.com,4060,609-986-9142,7,906
+$2219.28,Jewelry,Pennsylvania,dgallantp6@e-recht24.de,662,412-186-3105,15,907
+$1952.69,Industrial,Pennsylvania,twomersleyp7@auda.org.au,1640,215-790-3238,15,908
+$3754.10,Toys,Pennsylvania,astrethillp8@reverbnation.com,2285,717-231-7337,17,909
+$2328.90,Books,Florida,mronaynep9@wunderground.com,2614,305-394-4092,10,910
+$2550.81,Books,California,jpoguepa@bluehost.com,3744,805-161-3036,14,911
+$4581.53,Games,Wisconsin,clempertzpb@google.com.br,4850,414-399-9348,18,912
+$3847.54,Grocery,California,gdowsonpc@shop-pro.jp,4681,858-415-2728,11,913
+$2335.65,Outdoors,Florida,ckeedwellpd@livejournal.com,1587,561-396-4985,26,914
+$397.21,Garden,Florida,rflaunepe@dell.com,4152,941-437-2179,29,915
+$1030.36,Toys,Kansas,tclemittpf@eepurl.com,2032,785-813-4267,24,916
+$1897.38,Outdoors,Florida,bjaffrapg@weebly.com,1885,561-278-6653,22,917
+$4211.25,Toys,California,fterbruggeph@privacy.gov.au,4760,415-514-5610,16,918
+$1319.86,Home,Pennsylvania,lmeadpi@newsvine.com,3777,610-182-1875,19,919
+$277.51,Games,Florida,crieppj@upenn.edu,3178,407-182-0921,18,920
+$4999.29,Garden,Pennsylvania,bklejinpk@mediafire.com,3881,267-196-5241,24,921
+$474.05,Automotive,Ohio,kdellerpl@who.int,349,216-506-0057,7,922
+$162.46,Sports,North Carolina,aterrampm@posterous.com,1296,919-182-4526,26,923
+$2068.83,Music,Ohio,sabrahamovitzpn@pinterest.com,1510,614-659-2798,18,924
+$1840.17,Toys,Florida,bmulliganpo@typepad.com,3354,813-615-8234,20,925
+$1811.60,Clothing,California,rmacgounpp@marriott.com,2119,323-639-7746,29,926
+$815.43,Industrial,California,cfaulopq@oracle.com,2657,213-348-4643,10,927
+$4116.72,Games,California,kjoskovitchpr@amazon.co.jp,4064,818-341-0882,4,928
+$3740.96,Electronics,California,wfilpips@wikipedia.org,4132,408-504-6112,30,929
+$4189.44,Sports,Florida,btomadonipt@nature.com,4055,904-840-7848,9,930
+$1167.76,Outdoors,Florida,wstephensonpu@java.com,2208,352-446-9779,21,931
+$3455.10,Health,California,hmaskillpv@yellowpages.com,1510,661-128-2125,25,932
+$2075.60,Books,Florida,cinglishpw@goodreads.com,1373,407-488-1467,11,933
+$617.18,Toys,California,ydundonpx@google.com.hk,3363,310-547-4445,5,934
+$2243.04,Grocery,California,lmaccarterpy@clickbank.net,3231,619-331-8913,24,935
+$4272.15,Sports,Pennsylvania,pcrewspz@globo.com,1465,215-223-7018,17,936
+$3113.60,Garden,New Jersey,cgabbettq0@bluehost.com,3312,973-421-7302,20,937
+$4096.13,Grocery,Florida,mbannellq1@purevolume.com,4515,813-781-6258,3,938
+$3343.88,Industrial,Florida,favisq2@4shared.com,398,786-946-2296,27,939
+$4895.10,Books,Pennsylvania,eromushkinq3@fotki.com,4302,215-570-3921,29,940
+$3242.20,Industrial,Pennsylvania,ebevansq4@bbb.org,1718,215-476-4409,3,941
+$1551.11,Shoes,Alabama,nsibbsonq5@cnet.com,1476,205-925-9244,3,942
+$4607.14,Beauty,Wisconsin,kgoomq6@networksolutions.com,4309,414-570-1051,24,943
+$4283.24,Grocery,California,cyoleq7@mtv.com,1817,818-171-5319,2,944
+$1245.44,Shoes,California,mkelwaybamberq8@mac.com,2982,209-791-1152,26,945
+$43.35,Garden,California,ebatmanq9@google.com.au,399,408-594-2196,26,946
+$3267.37,Baby,California,bstudholmeqa@wikia.com,828,650-275-4379,12,947
+$254.91,Outdoors,California,cbartholomausqb@sbwire.com,1547,213-654-3207,20,948
+$3046.80,Automotive,California,mwifflerqc@meetup.com,3182,323-217-5118,1,949
+$1160.22,Electronics,Florida,rmoscropqd@tiny.cc,4873,941-762-6991,29,950
+$445.31,Baby,California,edarqueqe@mozilla.com,686,805-738-2024,16,951
+$2700.36,Baby,Florida,kboddamqf@dedecms.com,4799,941-669-3465,7,952
+$2606.94,Health,Ohio,hfedderqg@reference.com,977,614-221-6291,1,953
+$648.27,Grocery,Florida,fsteggalsqh@sfgate.com,2490,813-114-6465,29,954
+$3593.42,Shoes,Connecticut,apleaceqi@constantcontact.com,3435,203-390-7022,18,955
+$4379.30,Garden,Pennsylvania,bteshqj@fastcompany.com,1059,412-193-5727,10,956
+$3806.70,Industrial,Alabama,fwhileqk@bloomberg.com,197,205-374-6879,2,957
+$240.13,Music,Florida,grobertiql@moonfruit.com,372,321-913-5614,6,958
+$2798.04,Beauty,Ohio,ijeavesqm@hatena.ne.jp,2285,234-413-9393,21,959
+$3454.48,Baby,California,sgallandreqn@cloudflare.com,1875,626-938-5980,29,960
+$2573.28,Sports,North Carolina,ltrowqo@accuweather.com,641,704-649-6248,17,961
+$1827.85,Garden,Florida,mknappenqp@over-blog.com,2430,904-546-8587,8,962
+$4284.26,Computers,Florida,whankardqq@virginia.edu,2984,772-664-9861,14,963
+$128.61,Grocery,Alabama,gdawtonqr@hao123.com,2989,334-613-1839,28,964
+$4475.22,Baby,California,mtremontanaqs@sitemeter.com,168,559-506-6161,4,965
+$960.27,Sports,North Carolina,otolertonqt@wikimedia.org,4378,919-826-5233,23,966
+$3820.51,Books,California,mjorezqu@usnews.com,3538,626-738-2267,5,967
+$1150.64,Jewelry,Pennsylvania,rstrowtherqv@sourceforge.net,2938,215-578-1692,23,968
+$3833.51,Beauty,Florida,wjakoubqw@typepad.com,2235,561-266-1590,25,969
+$3722.72,Music,North Carolina,jbrisleyqx@live.com,2718,704-311-3115,8,970
+$1822.23,Toys,California,balfonzoqy@amazon.com,165,415-437-7828,30,971
+$2992.32,Music,North Carolina,mrontschqz@yellowbook.com,3454,336-637-9170,15,972
+$2428.47,Tools,Alabama,lmoulsterr0@answers.com,171,251-527-0513,30,973
+$2932.10,Computers,California,mdinningr1@sbwire.com,3115,619-511-2066,10,974
+$2408.80,Outdoors,California,gdeethr2@ifeng.com,1494,626-751-3001,21,975
+$932.75,Sports,Florida,gailwardr3@usda.gov,2738,941-610-9720,29,976
+$4893.00,Shoes,California,jsulmanr4@slashdot.org,891,714-247-0291,12,977
+$3705.11,Shoes,Ohio,rabrashkovr5@gravatar.com,3529,440-946-0583,30,978
+$3163.19,Industrial,North Carolina,fselwinr6@irs.gov,735,704-318-7053,9,979
+$2092.28,Games,Alabama,ncaukillr7@t.co,2141,251-582-1715,27,980
+$856.05,Movies,California,chargetr8@over-blog.com,3497,559-127-1265,26,981
+$4695.09,Grocery,Kansas,mlebarreer9@go.com,2741,316-145-2436,8,982
+$3822.58,Kids,Pennsylvania,rcuphusra@cpanel.net,1190,814-606-8142,26,983
+$390.60,Automotive,Florida,tdunsrb@paypal.com,67,407-999-8938,22,984
+$3693.19,Home,Ohio,skeesmanrc@examiner.com,1692,937-165-0203,18,985
+$2649.65,Baby,North Carolina,tdoncasterrd@odnoklassniki.ru,1160,919-759-2282,16,986
+$700.84,Garden,Ohio,lbehlingre@bing.com,1892,513-544-2728,28,987
+$4014.80,Toys,Florida,catherrf@washingtonpost.com,4260,941-143-2695,5,988
+$1028.62,Kids,North Carolina,gbramerrg@webmd.com,1240,919-705-6294,7,989
+$3751.96,Kids,Florida,clindbladrh@smh.com.au,3427,786-788-8945,1,990
+$3454.32,Electronics,Ohio,bkemsonri@walmart.com,4336,614-545-6529,4,991
+$731.17,Outdoors,Alabama,salbistonrj@nbcnews.com,1099,205-908-2242,4,992
+$1730.69,Outdoors,California,mhawksbyrk@chronoengine.com,2339,714-181-2170,30,993
+$3226.05,Games,Florida,njearyrl@discuz.net,3234,941-987-7564,24,994
+$1337.06,Jewelry,Florida,nmacpadenerm@redcross.org,4909,904-523-0841,7,995
+$3736.90,Grocery,California,amaccallionrn@xing.com,342,805-340-3928,26,996
+$579.61,Jewelry,Wisconsin,emcgeochro@ebay.co.uk,4216,414-220-4825,13,997
+$2941.57,Movies,Florida,nlevesleyrp@google.com,2692,754-284-7040,7,998
+$2747.89,Automotive,Wisconsin,lkeppierq@xrea.com,4484,414-652-3557,7,999
+$4846.27,Toys,Ohio,cdaggettrr@wufoo.com,2106,419-495-4658,29,1000
