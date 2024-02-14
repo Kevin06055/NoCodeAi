@@ -3,4 +3,5 @@ import string
 import random 
 a = string.digits
 b = random.sample(a,5)
-st.write("".join(*b))
+printer = print(*b,sep='')
+st.write(*b,sep="")
